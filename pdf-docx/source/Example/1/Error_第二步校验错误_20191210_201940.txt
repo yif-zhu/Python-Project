@@ -1,0 +1,3 @@
+[20:19:43]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1.xlsx】
+[20:19:43]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK__Recurrin__76AB01D71776172F'. Cannot insert duplicate key in object 'DVImport.RecurringExpiryDate'. The duplicate key value is (6986, 1). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")

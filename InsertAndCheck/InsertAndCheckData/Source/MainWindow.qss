@@ -1,0 +1,102 @@
+#MainWindow{
+    background-color: white;
+}
+#MainWindow>QWidget{
+    background-color:white;
+    border:2px solid #E6E6E6;
+}
+#MainWindow QToolBar{
+    background-color: white;
+    border:2px solid #E6E6E6;
+}
+
+#MainWindow QToolBar QPushButton{
+    background-color: white;
+    min-width: 90px;
+    min-height: 30px;
+    max-width: 230px;
+    max-height: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    color: #000000;
+    border:2px solid #E6E6E6;
+    border-radius:2px
+}
+
+#MainWindow QToolBar QPushButton:selected{
+    background-color: #e6e9f5;
+    color: #FFFFFF;
+}
+WorkTab QTabWidget{
+    background-color: white;
+    border:2px solid #E6E6E6;
+}
+#MainWindow WorkTab{
+    height: 800px;
+}
+QComboBox{
+    background-color: #FFFFFF;
+    border:1px solid #E6E6E6;
+    max-width:230px;
+    min-width:130px;
+    max-height:30px;
+    margin-left: 5px;
+    /*padding-left: 15px;*/
+}
+QComboBox::drop-down{
+    width:25px;
+    image: url(Resource/icon/Icon_drop_down.ico);
+    border:1px solid #E6E6E6;
+}
+
+QComboBox QAbstractItemView::item{
+    height:30px;
+    background-color:white;
+    border:1px solid #E6E6E6;
+}
+QComboBox QAbstractItemView::item:selected{
+    color:black;
+    background-color: #F3F5FA;
+}
+
+#MainWindow QTextEdit{
+    background:white;
+    height:20%
+}
+QTableWidget{
+    border:1px solid #E6E6E6
+}
+QMenu {
+    background-color: white;
+    selection-background-color: #e6e9f5;
+    selection-color: #000000;
+    border:2px solid #E6E6E6;
+}
+
+QTableWidget QHeaderView{
+    border-bottom:1px solid #E6E6E6;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+QTableWidget::item:selected{
+    background-color: #e6e9f5;
+    color: #000000;
+}
+Tab QComboBox{
+    max-width:600px;
+    min-width:600px;
+    margin-left: 5px;
+}
+#MainWindow #Mask{
+    background-color: rgba(255, 255, 255, 200);
+}
+#MainWindow #Mask QLabel{
+    /*background-color: rgba(255, 255, 255, 130);*/
+    margin-left: 950px;
+    margin-top: 500px;
+    font-size: 30px;
+    color: #989898
+}

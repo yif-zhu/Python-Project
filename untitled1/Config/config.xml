@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root>
+	<OutputFolder>
+	<Folder>C:/PyCharm/pdf-docx/dest/task2</Folder>
+	<Folder>C:/PyCharm/pdf-docx/source/task1</Folder>
+</OutputFolder>
+<xmlFIle>
+	<File Name="方案1">C:\PyCharm\pdf-docx\ExcelTranslator/Resource/xml/444.xml</File>
+	<File Name="方案2">C:\PyCharm\pdf-docx\ExcelTranslator/Resource/xml/222.xml</File>
+</xmlFIle>
+<templateFile>
+	<File Name="受托报告导入模板-新">C:\PyCharm\pdf-docx\ExcelTranslator/Resource/templateFile/受托报告导入模板-新.xlsx</File>
+</templateFile>
+</Root>

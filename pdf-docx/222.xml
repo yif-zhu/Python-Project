@@ -1,0 +1,90 @@
+    <!-- IsTable 为 True时 -->
+	<!-- anchor 为定位单元格的关键字 -->
+	<!-- skiprows 为anchor 到表数据第一行的间隔，如果anchor定位的就是首行，那么skiprows = -1 -->
+	<!-- range 为表格长度，可以为空 -->
+	<!-- anchorend 当range为空时生效，用于定位数据最后一行的下一行的关键字，如数据到52行为止，则anchorend填写定位53行的关键字 -->
+	<!-- 当range anchorend都为空时，从首行一直到下一个空行为止为数据区域 -->
+	<!-- cols 表示需要获取数据的列，逗号分隔 -->
+	<!-- 合并的单元格填第一列即可 -->
+	<!-- IsTable 为false时， -->
+<mapping input ="C:\\PyCharm\\pdf-docx\\source\\task2" output="C:\\PyCharm\\pdf-docx\\dest\\task2" template="C:\\PyCharm\\pdf-docx\\受托报告导入模板-新.xlsx">
+			 
+		<item desc="资产池整体表现情况" istable="true" keyword = "资产池整体表现情况">
+            <source   anchor="资产池整体表现" skiprows="1" range = "6" anchorend="" cols="A,B,C,D,E" > </source>
+            <dest limited="7" beginrow="24" cols="A,B,C,D,E" datatype = "S,F,P,F,P"></dest>
+        </item>
+		<item desc="证券分层" istable="true" keyword = "证券分层">
+            <source   anchor="利息兑付情况" skiprows="1" range = "" anchorend="" cols="C,D,E" > </source>
+            <dest limited="12" beginrow="8" cols="C,D,F" datatype = "F,F,F"></dest>
+        </item>
+		<item desc="证券分层" istable="true" keyword = "证券分层">
+            <source   anchor="利息还款情况" skiprows="1" range = "" anchorend="" cols="C" > </source>
+            <dest limited="12" beginrow="8" cols="E" datatype = "F"></dest>
+        </item>		
+		<item desc="资产池现金流归集表" istable="true" keyword = "资产池现金流归集表">
+            <source   anchor="现金流归集表" skiprows="1" range = "" anchorend="" cols="A,B,C,D" > </source>
+            <dest limited="431" beginrow="35" cols="A,B,C,D" datatype = "D,F,F,F"></dest>
+        </item>	
+		<item desc="累计违约率" istable="true" keyword = "累计违约率">
+            <source  anchor="累计违约率和严重拖欠" skiprows="1" range = "" anchorend="" cols="C" > </source>
+            <dest limited="421" beginrow="24" cols="V" datatype = "P"></dest>
+        </item>	
+		<item desc="入池资产户數与金额特征" istable="true" keyword = "入池资产户數与金额特征">
+            <source   anchor="金额特征" skiprows="1" range = "5" anchorend="" cols="D" > </source>
+            <dest limited="5" beginrow="24" cols="R" datatype = "F"></dest>
+        </item>	
+		<item desc="入池资产期限特征" istable="true" keyword = "入池资产期限特征">
+            <source   anchor="期限特征" skiprows="1" range = "5" anchorend="" cols="D" > </source>
+            <dest limited="5" beginrow="32" cols="R" datatype = "F"></dest>
+        </item>	
+		<item desc="利率特征" istable="true" keyword = "利率特征">
+            <source   anchor="利率特征" skiprows="1" range = "3" anchorend="" cols="D" > </source>
+            <dest limited="3" beginrow="40" cols="R" datatype = "P"></dest>
+        </item>	
+		<item desc="资产池情况" istable="false" >
+			<source  anchor="收入分账户;合计"  cols="E" > </source>
+			<dest cols = "M33" datatype ="F"></dest>
+		</item>
+		<item desc="资产池情况" istable="false" >
+			<source  anchor="本金分账户;合计"  cols="E" > </source>
+			<dest cols = "M43" datatype ="F"></dest>
+		</item>
+		<item desc="资产池情况" istable="true">
+            <source   anchor="税费支出" skiprows="0" range = "3" anchorend="" cols="E" > </source>
+            <dest limited="3" beginrow="45" cols="M" datatype = "F"></dest>
+        </item>	
+		<item desc="资产池情况 状态" istable="true">
+            <source   anchor="收入分账户" skiprows="-1" range = "7" anchorend="" cols="D,E" > </source>
+            <dest limited="6" beginrow="24" cols="L,M" datatype = "F,F"></dest>
+        </item>	
+		<item desc="资产池情况 状态" istable="true">
+            <source   anchor="本金分账户" skiprows="-1" range = "7" anchorend="" cols="D,E" > </source>
+            <dest limited="6" beginrow="34" cols="L,M" datatype = "F,F"></dest>
+        </item>	
+		<item desc="违约处置状态" istable="true">
+            <source   anchor="违约贷款处置情况" skiprows="7" range = "1" anchorend="" cols="B,C,D,E" > </source>
+            <dest limited="1" beginrow="55" cols="J,K,L,M" datatype = "F,P,F,P"></dest>
+        </item>	
+		
+		<!-- <item desc="资产池情况" istable="false" > -->
+			<!-- <source  anchor="税费支出;服务总费用"  cols="C" > </source> -->
+			<!-- <dest cols = "M46" datatype ="F"></dest> -->
+		<!-- </item> -->
+		<!-- <item desc="资产池情况" istable="false" > -->
+			<!-- <source  anchor="税费支出;费用支出"  cols="C" > </source> -->
+			<!-- <dest cols = "M47" datatype ="F"></dest> -->
+		<!-- </item> -->
+		<!-- <item desc="资产池情况" istable="false" > -->
+			<!-- <source  anchor="持续购买资产支出（注1)"  cols="C" > </source> -->
+			<!-- <dest cols = "M48" datatype ="F"></dest> -->
+		<!-- </item> -->
+		<!-- <item desc="资产池情况" istable="false" > -->
+			<!-- <source  anchor="转存下期本金"  cols="E" > </source> -->
+			<!-- <dest cols = "M49" datatype ="F"></dest> -->
+		<!-- </item> -->
+		<!-- <item desc="资产池情况" istable="false" > -->
+			<!-- <source  anchor="本 金 账;合计"  cols="E" > </source> -->
+			<!-- <dest cols = "M50" value = "0" datatype ="F"></dest> -->
+		<!-- </item> -->
+    </mapping>
+	

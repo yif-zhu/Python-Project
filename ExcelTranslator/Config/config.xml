@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root>
+	<OutputFolder>
+	</OutputFolder>
+<xmlFIle>
+	<File Name="POC新增.xml">Resource/xml/POC.xml</File>
+	<File Name="车贷1.xml">Resource/xml/AUTO1.xml</File>
+	<File Name="车贷2.xml">Resource/xml/AUTO2.xml</File>
+	<File Name="车贷4.xml">Resource/xml/AUTO4.xml</File>
+	<File Name="车贷5.xml">Resource/xml/AUTO5.xml</File>
+	<File Name="车贷6.xml">Resource/xml/AUTO6.xml</File>
+	<File Name="房贷1.xml">Resource/xml/RMBS1.xml</File>
+	<File Name="房贷2.xml">Resource/xml/RMBS2.xml</File>
+	<File Name="房贷3.xml">Resource/xml/RMBS3.xml</File>
+	<File Name="房贷4.xml">Resource/xml/RMBS4.xml</File>
+	<File Name="消费贷1.xml">Resource/xml/ConsumerLoan1.xml</File>
+	<File Name="消费贷2.xml">Resource/xml/ConsumerLoan2.xml</File>
+	<File Name="消费贷3.xml">Resource/xml/ConsumerLoan3.xml</File>
+	<File Name="消费贷4.xml">Resource/xml/ConsumerLoan4.xml</File>
+	<File Name="消费贷5.xml">Resource/xml/ConsumerLoan5.xml</File>
+</xmlFIle>
+<templateFile>
+	<File Name="受托报告导入模板-新.xlsx">Resource/templateFile\templateModel.xlsx</File>
+	<File Name="受托报告导入模板-v4.xlsx">Resource/templateFile/POCV4.xlsx</File>
+</templateFile>
+<AssetType>
+	<File Name="住房抵押贷款">HouseLoan</File>
+	<File Name="个人汽车贷款">CarLoan</File>
+	<File Name="个人消费贷款">ConsumerLoan</File>
+	<File Name="企业贷款">CreditLoan</File>
+	<File Name="小微贷款">SmallLoan</File>
+	<File Name="租赁资产">Lease</File>
+	<File Name="不良资产重组">NPL</File>
+	<File Name="汽车租赁分期">CarLease</File>
+	<File Name="现金贷">CashLoan</File>
+	<File Name="过桥资金">Bridging</File>
+	<File Name="REITs">REITs</File>
+	<File Name="保理融资">Factoring</File>
+	<File Name="收费收益权">SFSYQ</File>
+	<File Name="信托受益权">XTSYQ</File>
+	<File Name="融资租赁">financialLease</File>
+	<File Name="应收账款">Receivables</File>
+	<File Name="股票质押回购">GPZYHG</File>
+	<File Name="票据收益权">PJSYQ</File>
+	<File Name="小额贷款">PettyLoan</File>
+	<File Name="PPP">PPP</File>
+	<File Name="CMBS">CMBS</File>
+	<File Name="委托贷款">LoanByMandate</File>
+	<File Name="BT项目回购">BTXMHG</File>
+	<File Name="两融债权">LRZQ</File>
+	<File Name="专项信贷">ZXXD</File>
+	<File Name="住房公积金">ZFGJJ</File>
+	<File Name="保单质押贷款">BDZYDK</File>
+	<File Name="其他">QT</File>
+	<File Name="设备按揭贷款">SBAJDK</File>
+	<File Name="金融租赁">JRZL</File>
+	<File Name="房地产投资信托基金">FDCTZXTJJ</File>
+</AssetType>
+</Root>

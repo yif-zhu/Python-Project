@@ -1,0 +1,6 @@
+[11:25:07]:  
+【C:/PyCharm/pdf-docx/source/Example/清算报告\00受托报告数据提取;HeJia2019-1;清算报告.xlsx】
+[11:25:07]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[11:25:08]:  
+【C:/PyCharm/pdf-docx/source/Example/清算报告\00受托报告数据提取;HeJia2019-1;清算报告.xlsx】
+[11:25:08]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')

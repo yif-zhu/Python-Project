@@ -1,0 +1,3 @@
+[10:12:40]:  
+【//172.16.6.143/Products/受托报告/202003/新模板V4/住房抵押贷款/韩永辉/陈亚峰/和家2019年第一期个人住房抵押贷款资产支持证券（第9期）\00受托报告数据提取;HeJia2019-1;报告期数;9.xlsx】
+[10:12:40]:  ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting nvarchar to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')

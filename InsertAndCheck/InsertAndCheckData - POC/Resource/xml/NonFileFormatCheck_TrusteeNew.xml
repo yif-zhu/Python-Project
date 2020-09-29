@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mapping AssetType="CarLoan" destfolder="C:/PyCharm/pdf-docx/source/Example/1" sourcefolder="//172.16.7.114/已整理受托报告/受托报告-总/补充新增受托报告/20190927/董思琦11-21及32-42组/不良资产">
+    <item desc="收益分配记录">
+        <cols>
+            <A desc="TrustBondID" dtype="int" emptybreak="1" nagroup="1" />
+            <C desc="期初余额" dtype="number" emptybreak="1" nagroup="1" />
+            <D desc="本金金额" dtype="number" nagroup="1" />
+            <E desc="利息还款" dtype="number" nagroup="1" />
+            <F desc="期末余额" dtype="number" nagroup="1" />
+        </cols>
+        <rows end="20" start="8" />
+    </item>
+    <item desc="资产池逾期表现">
+        <cols>
+            <A desc="科目" emptybreak="1" nagroup="1" />
+            <B desc="户数" dtype="int" nagroup="1" />
+            <C desc="标的资产债权笔数" dtype="int" nagroup="1" />
+            <D desc="标的资产债权本息余额" dtype="number" nagroup="1" />
+            <E desc="赎回-标的资产债权笔数" dtype="int" nagroup="1" />
+			<F desc="赎回-标的资产债权金额" dtype="number" nagroup="1" />
+			<G desc="赎回-标的资产债权占比" dtype="rate" nagroup="1" />
+        </cols>
+        <rows end="32" start="25" />
+    </item>
+    <item desc="现金流归集">
+        <cols>
+            <A desc="计算日" dtype="date" emptybreak="1" nagroup="1" />
+            <B desc="期初本金金额" dtype="number" nagroup="1" />
+            <D desc="应收本金" dtype="number" nagroup="1" />
+            <E desc="应收利息" dtype="number" nagroup="1" />
+        </cols>
+        <rows end="182" start="37" useacturalend="1" />
+    </item>
+    <item desc="现金流归集">
+        <cols>
+            <A desc="计算日" dtype="date" emptybreak="1" nagroup="1" />
+        </cols>
+        <rows end="182" start="37" useacturalend="1" />
+    </item>
+	<item desc="资产池现金流流入情况">
+        <cols>
+            <O desc="本期回收金额" dtype="number" emptybreak="1" nagroup="1" />
+            <P desc="累计回收金额" dtype="number" nagroup="1" />
+            <Q desc="预计回收金额" dtype="number" nagroup="1" />
+            <R desc="回收率" dtype="rate" nagroup="1" />
+        </cols>
+        <rows end="34" start="26" />
+    </item>
+    <item desc="资产池现金流流出情况" type="SpecificCells">
+        <O38 desc="税收" dtype="number" />
+        <O39 desc="代理兑付费用" dtype="number" />
+        <O40 desc="发行费用" dtype="number" />
+        <O41 desc="受托机构报错" dtype="number" />
+        <O42 desc="资金保管机构报酬" dtype="number" />
+        <O43 desc="处置费用" dtype="number" />
+        <O44 desc="贷款服务机构报酬" dtype="number" />
+        <O45 desc="审计费" dtype="number" />
+        <O46 desc="跟踪评级服务费" dtype="number" />
+        <O47 desc="其他费用支出" dtype="number" />
+        <O48 desc="银行手续费" dtype="number" />
+        <O49 desc="服务报酬支出" dtype="number" />
+        <O50 desc="费用支出" dtype="number" />
+		<O51 desc="总计" dtype="number" />
+		<O52 desc="证券本金总支出" dtype="number" />
+		<O53 desc="证券利息总支出" dtype="number" />
+		<O54 desc="次级档收益" dtype="number" />
+		<O55 desc="次级档固定资金成本" dtype="number" />
+		<O56 desc="次级档总收益" dtype="number" />
+		<O57 desc="特别信托收益" dtype="number" />
+		<O58 desc="持续购买资产支出" dtype="number" />
+		<O59 desc="转存下期资金" dtype="number" />
+		<O60 desc="转存下期收入" dtype="number" />
+    </item>
+    <item desc="储配账户余额情况" type="SpecificCells">
+        <T24 desc="期末余额" dtype="number" />
+		<U24 desc="分配余额" dtype="number" />
+    </item>
+	<item desc="流动性支持机构资金情况" type="SpecificCells">
+        <T32 desc="期末余额" dtype="number" />
+		<U32 desc="分配余额" dtype="number" />
+    </item>
+    <item desc="处置违约分布">
+        <cols>
+            <N desc="户数" dtype="int" nagroup="1" />
+            <O desc="占比" dtype="rate" nagroup="1" />
+            <P desc="期初本息金额" dtype="number" nagroup="1" />
+        </cols>
+        <rows end="70" start="69" />
+    </item>
+    <item desc="涵盖日期情况" type="SpecificCells">
+        <M77 desc="期末余额" dtype="date" />
+		<N77 desc="分配余额" dtype="date" />
+        <O77 desc="期末余额" dtype="date" />
+		<P77 desc="分配余额" dtype="date" />
+    </item>
+</mapping>

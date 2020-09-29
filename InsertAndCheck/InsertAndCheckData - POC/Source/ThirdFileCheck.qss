@@ -1,0 +1,109 @@
+#Main{
+    background-color: white;
+}
+#Main>QWidget{background-color: rgb(255, 255, 255);}
+
+#body{
+    border-top: 3px solid #E6E6E6;
+}
+#Main QPushButton{
+    background-color: #5867a6;
+    min-width: 90px;
+    min-height: 30px;
+    max-width: 90px;
+    max-height: 30px;
+
+    color: #FFFFFF;
+    border:3px solid #F3F5FA;
+    border-radius:2px
+}
+QVBoxLayount{
+    background-color: rgb(255, 250, 230);
+}
+
+#title {
+    max-height:40px;
+    min-height:40px
+}
+
+#bottom {
+    max-height:100px;
+    min-height:40px;
+    margin-bottom:15px
+}
+
+#body QLabel{
+    background-color: #F3F5FA;
+    border:1px solid #E6E6E6;
+    max-width:137px;
+    min-width:137px;
+    min-height:30px
+}
+#body QRadioButton{
+    max-width:137px;
+    min-width:137px;
+    min-height:30px
+}
+
+#body QDateTimeEdit{
+    border:1px solid #E6E6E6;
+    max-width:180px;
+    min-width:180px;
+    min-height:30px
+}
+
+#body QComboBox{
+    background-color: #FFFFFF;
+    border:1px solid #E6E6E6;
+    max-width:320px;
+    min-width:320px;
+    max-height:30px
+}
+#body QComboBox::drop-down{
+    width:25px;
+    image: url(Resource/icon/Icon_drop_down.ico);
+}
+
+#body #comboBox_assetType {
+    max-width:230px;
+    min-width:230px;
+
+}
+
+#body #label_type{
+    max-width:137px;
+    min-width:137px;
+    min-height:30px
+
+}
+
+/*#body QComboBox QAbstractItemView {*/
+/*    min-height:30px;*/
+/*    border: 1px inset #F3F5FA;*/
+/*    background-color:white;*/
+/*}*/
+#body QComboBox QAbstractItemView::item{
+    height:30px;
+    background-color:white;
+    border:1px solid #E6E6E6;
+}
+#body QComboBox QAbstractItemView::item:selected{
+    color:black;
+    background-color: #F3F5FA;
+}
+
+#body QLineEdit{
+    background-color: #FFFFFF;
+    border:1px solid #E6E6E6;
+    max-width:200px;
+    min-width:200px;
+    max-height:30px
+}
+#submit {
+    margin-left: 205px;
+    margin-right: 205px;
+    margin-bottom: 40px
+}
+
+
+

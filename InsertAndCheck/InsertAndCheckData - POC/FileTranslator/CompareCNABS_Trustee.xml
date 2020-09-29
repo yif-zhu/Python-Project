@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mapping AssetType="CarLoan" ImportTime="2019/9/11 11:44" TrustId="5077" dbconnstr="DRIVER={SQL Server};SERVER=172.16.7.130\MSSQL;DATABASE=PortfolioManagement;UID=sa;PWD=PasswordGS2017" destfolder="C:/PyCharm/pdf-docx/source/Example/1" poolType="1" type="3">
+</mapping>

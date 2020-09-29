@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mapping AssetType="ConsumerLoan" dbconnstr="DRIVER={SQL Server};SERVER=172.16.6.143\MSSQL;DATABASE=PortfolioManagement;UID=sa;PWD=PasswordGS2017" destfolder="C:/PyCharm/pdf-docx/source/Example/1" sourcefolder="//172.16.7.114/已整理受托报告/9月开始新增受托报告/202008/ABS/清算报告V1/个人消费贷款/王刚依/康尤千/捷赢2019年第一期个人消费贷款资产支持证券">
+    <item desc="信托财产收益情况A" stat="insert into DVImport.PoolCashflowLiquidation values" type="SpecificCells">
+        <F10 desc="利息-正常回收" dtype="number" />
+        <F11 desc="利息-提前偿还" dtype="number" />
+        <F12 desc="利息-拖欠回收" dtype="number" />
+        <F13 desc="利息-违约回收" dtype="number" />
+        <F14 desc="利息-资产赎回" dtype="number" />
+        <F15 desc="利息-清仓回购" dtype="number" />
+        <F17 desc="利息-其他收入" dtype="number" />
+        <F18 desc="利息-合格投资" dtype="number" />
+		<F19 desc="利息-上期转存" dtype="number" />
+        <F20 desc="利息-扣款合计" dtype="number" />
+        <F21 desc="利息-合计" dtype="number" />
+        <F22 desc="本金-正常回收" dtype="number" />
+        <F23 desc="本金-提前偿还" dtype="number" />
+        <F24 desc="本金-拖欠回收" dtype="number" />
+        <F25 desc="本金-违约回收" dtype="number" />
+        <F26 desc="本金-资产赎回" dtype="number" />
+        <F27 desc="本金-清仓回购" dtype="number" />
+        <F29 desc="本金-其他收入" dtype="number" />
+        <F30 desc="本金-上期转存" dtype="number" />
+        <F31 desc="本金-扣款合计" dtype="number" />
+        <F32 desc="本金-合计" dtype="number" />
+    </item>
+	<item desc="信托财产收益情况B" stat="insert into DVImport.PoolTrustIncomeLiquidation values">
+        <cols>
+            <C desc="科目" dtype="string" emptybreak="1" nagroup="1" />
+            <D desc="金额" dtype="number" emptybreak="1" nagroup="1" />
+        </cols>
+        <rows end="46" start="39" />
+    </item>
+    <item desc="证券本金兑付情况（分档债券）" stat="insert into DVImport.FactLoanPaymentLiquidation values">
+        <cols>
+			<B desc="TrustBondID" dtype="number" emptybreak="1" nagroup="1" />
+            <C desc="本金还款" dtype="number" emptybreak="1" nagroup="1" />
+            <D desc="利息还款" dtype="number" nagroup="1" />
+        </cols>
+        <rows end="70" start="58" />
+    </item>
+    <item desc="证券本金兑付情况（累计兑付）" stat="insert into DVImport.FactLoanTotalLiquidation values" type="SpecificCells">
+        <B82 desc="TrustBondId" dtype="string" />
+        <C82 desc="本金还款" dtype="number" />
+        <D82 desc="利息及收益还款" dtype="number" />
+        <E82 desc="本金、利息及收益合计" dtype="number" />
+        <F82 desc="次级档超额收益" dtype="number" />
+    </item>
+    <item desc="清算报告日期汇总" stat="insert into DVImport.DateSummaryLiquidation values" type="SpecificCells">
+        <J10 desc="报告日期" dtype="date" />
+		<K10 desc="信托成立日" dtype="date" />
+        <J13 desc="信托清算日" dtype="date" />
+		<K13 desc="清仓回购日" dtype="date" />
+        <J17 desc="收款区间（开始）" dtype="date" />
+		<K17 desc="收款区间（结束）" dtype="date" />
+        <J21 desc="计息区间（开始）" dtype="date" />
+		<K21 desc="计息区间（结束不含）" dtype="date" />
+    </item>
+    <item desc="剩余信托财产及返还情况" stat="insert into DVImport.RemainTrustLiquidation values" type="SpecificCells">
+        <I25 desc="清算前账户余额" dtype="number" />
+        <I26 desc="清算日账户余额" dtype="number" />
+		<I27 desc="清算后账户余额" dtype="number" />
+        <I28 desc="清仓回购价款" dtype="number" />
+    </item>
+    <item desc="信托税费支出情况" stat="insert into DVImport.TaxExpenseCondition values">
+        <cols>
+            <I desc="科目" emptybreak="1" nagroup="1" />
+            <J desc="金额" dtype="number" />
+        </cols>
+        <rows end="47" start="33" />
+    </item>
+    <item desc="其他事项" stat="insert into DVImport.SomethingMatter values">
+        <cols>
+            <H desc="事项" emptybreak="1" nagroup="1" />
+            <I desc="是否发生" nagroup="1" />
+            <J desc="情况说明" nagroup="1" />
+			<K desc="发生时间" dtype="date" nagroup="1" />
+        </cols>
+        <rows end="80" start="54" />
+    </item>
+	<item desc="清算日余额用途" stat="insert into DVImport.SettlementUseLiquidation values" type="SpecificCells">
+        <I84 desc="清算前账户余额" dtype="string" />
+    </item>
+</mapping>

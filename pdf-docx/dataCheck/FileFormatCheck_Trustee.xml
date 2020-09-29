@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--列的字段类型选项：
+    int: 只能是整型数字
+    number: 可以包含小数点和“,”
+    date: 支持格式如：“2010年1月1日”，“2010年1月”，“2010-1-1”,"1/1/2010",“2010-1”, "2010/1"
+    rate: 数字，支持带百分号
+    string: 任意字符，但不能包含半角字符单引号 “'”
+
+    单元格属性说明：
+    nagroup: 数据区域中第一行的nagroup所包含的列全部为NA时，指定该部分数据在报告中无数据
+    emptybreak: 该列为空时，不再在当前区域中往下读取——程序中优先级在nagroup条件之后
+-->
+<mapping sourcefolder="C:\PyCharm\pdf-docx\dest\task2">
+    <item desc="收益分配记录">
+        <cols>
+            <A desc="TrustBondID" dtype="int"></A>
+            <C desc="期初余额" dtype="number" nagroup="1" emptybreak="1"></C>
+            <D desc="本金金额" dtype="number" nagroup="1"></D>
+            <E desc="利息还款" dtype="number" nagroup="1"></E>
+            <F desc="期末余额" dtype="number" nagroup="1"></F>
+        </cols>
+        <rows start="8" end="20"></rows>
+    </item>
+    <item desc="资产池逾期表现">
+        <cols>
+            <A desc="科目" nagroup="1" emptybreak="1"></A>
+            <B desc="笔数" dtype="int" nagroup="1" emptybreak="1"></B>
+            <C desc="笔数占比" dtype="rate" nagroup="1"></C>
+            <D desc="金额" dtype="number" nagroup="1"></D>
+            <E desc="金额占比" dtype="rate" nagroup="1"></E>
+        </cols>
+        <rows start="24" end="32"></rows>
+    </item>
+    <item desc="现金流归集">
+        <cols>
+            <A desc="计算日" dtype="date" nagroup="1" emptybreak="1"></A>
+            <B desc="期初本金金额" dtype="number" nagroup="1"></B>
+            <C desc="应收本金" dtype="number" nagroup="1"></C>
+            <D desc="应收利息" dtype="number" nagroup="1"></D>
+        </cols>
+        <rows start="35" end="182" useacturalend="1"></rows>
+    </item>
+    <item desc="资产池现金流详情" type="SpecificCells">
+        <M24 desc="利息-正常回收" dtype="number"></M24>
+        <M25 desc="利息-提前偿还" dtype="number"></M25>
+        <M26 desc="利息-拖欠回收" dtype="number"></M26>
+        <M27 desc="利息-违约回收" dtype="number"></M27>
+        <M28 desc="利息-资产赎回" dtype="number"></M28>
+        <M29 desc="利息-清仓回购" dtype="number"></M29>
+        <M31 desc="利息-其他收入" dtype="number"></M31>
+        <M32 desc="利息-合格投资" dtype="number"></M32>
+        <M34 desc="本金-正常回收" dtype="number"></M34>
+        <M35 desc="本金-提前偿还" dtype="number"></M35>
+        <M36 desc="本金-拖欠回收" dtype="number"></M36>
+        <M37 desc="本金-违约回收" dtype="number"></M37>
+        <M38 desc="本金-资产赎回" dtype="number"></M38>
+        <M39 desc="本金-清仓回购" dtype="number"></M39>
+        <M41 desc="本金-其他收入" dtype="number"></M41>
+        <M42 desc="本金-上期转存" dtype="number"></M42>
+    </item>
+    <item desc="资产池情况" type="SpecificCells">
+        <M33 desc="收入合计" dtype="number"></M33>
+        <M43 desc="本金合计" dtype="number"></M43>
+        <M45 desc="税费支出-税收" dtype="number"></M45>
+        <M46 desc="税费支出-资产服务报酬" dtype="number"></M46>
+        <M47 desc="税费支出-除资产服务报酬外的其他费用" dtype="number"></M47>
+        <M48 desc="持续购买资产支出" dtype="number"></M48>
+        <M49 desc="转存下期资金" dtype="number"></M49>
+        <M50 desc="转存下期收入" dtype="number"></M50>
+    </item>
+    <item desc="笔数与金额特征" type="SpecificCells">
+        <R24 desc="总笔数" dtype="int"></R24>
+        <R25 desc="总户数" dtype="int"></R25>
+        <R26 desc="未偿本金余额" dtype="number"></R26>
+        <R27 desc="最高本金余额" dtype="number"></R27>
+        <R28 desc="平均本金余额" dtype="number"></R28>
+        <R32 desc="加权平均合同期限" dtype="number"></R32>
+        <R33 desc="加权平均剩余期限" dtype="number"></R33>
+        <R34 desc="加权平均账龄" dtype="number"></R34>
+        <R35 desc="最长剩余期限" dtype="number"></R35>
+        <R36 desc="最短剩余期限" dtype="number"></R36>
+        <R40 desc="加权平均利率" dtype="rate"></R40>
+        <R41 desc="最高利率" dtype="rate"></R41>
+        <R42 desc="最低利率" dtype="rate"></R42>
+    </item>
+    <item desc="违约处置状态" type="SpecificCells">
+        <L55 desc="汇总金额" dtype="number"></L55>
+    </item>
+    <item desc="累计违约率">
+        <cols>
+            <T desc="期数" dtype="int"></T>
+            <V desc="累计违约率" dtype="rate" nagroup="1" emptybreak="1"></V>
+        </cols>
+        <rows start="24" end="69" useacturalend="1"></rows>
+    </item>
+</mapping>

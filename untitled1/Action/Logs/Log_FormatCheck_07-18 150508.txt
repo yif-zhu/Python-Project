@@ -1,0 +1,48 @@
+[15:05:08]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;10.xlsx
+[15:05:08]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:08]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;12.xlsx
+[15:05:08]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:08]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;14.xlsx
+[15:05:08]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:09]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;16.xlsx
+[15:05:09]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:09]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;18.xlsx
+[15:05:09]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:09]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;20.xlsx
+[15:05:09]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:09]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;22.xlsx
+[15:05:10]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:10]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;24.xlsx
+[15:05:10]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:10]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;26.xlsx
+[15:05:10]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:10]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;28.xlsx
+[15:05:11]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:11]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;30.xlsx
+[15:05:11]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:11]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;32.xlsx
+[15:05:11]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:11]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;34.xlsx
+[15:05:12]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:12]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;36.xlsx
+[15:05:12]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:12]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;38.xlsx
+[15:05:12]:  【有格式错误】详情见文档[格式检查]sheet
+[15:05:12]:  
+C:\PyCharm\pdf-docx\dest\task2\00受托报告数据提取;ChengYi2016-1;报告期数;40.xlsx
+[15:05:12]:  【有格式错误】详情见文档[格式检查]sheet

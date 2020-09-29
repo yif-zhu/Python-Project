@@ -1,0 +1,141 @@
+[17:46:07]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;1.xlsx】
+[17:46:07]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:08]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;10.xlsx】
+[17:46:08]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:09]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;11.xlsx】
+[17:46:09]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:10]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;12.xlsx】
+[17:46:10]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:12]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;13.xlsx】
+[17:46:12]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:13]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;14.xlsx】
+[17:46:13]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:14]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;15.xlsx】
+[17:46:14]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:16]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;16.xlsx】
+[17:46:16]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:17]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;17.xlsx】
+[17:46:17]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:18]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;18.xlsx】
+[17:46:18]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:20]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;19.xlsx】
+[17:46:20]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:21]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;2.xlsx】
+[17:46:21]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:22]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;20.xlsx】
+[17:46:22]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:23]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;21.xlsx】
+[17:46:23]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:24]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;22.xlsx】
+[17:46:24]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:25]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;23.xlsx】
+[17:46:25]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:27]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;24.xlsx】
+[17:46:27]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:28]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;25.xlsx】
+[17:46:28]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:29]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;26.xlsx】
+[17:46:29]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:30]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;27.xlsx】
+[17:46:30]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:32]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;28.xlsx】
+[17:46:32]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:33]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;29.xlsx】
+[17:46:33]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:34]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;3.xlsx】
+[17:46:34]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:35]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;30.xlsx】
+[17:46:35]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:36]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;31.xlsx】
+[17:46:36]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:37]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;32.xlsx】
+[17:46:37]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:38]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;33.xlsx】
+[17:46:38]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:39]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;34.xlsx】
+[17:46:39]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:40]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;35.xlsx】
+[17:46:40]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:41]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;36.xlsx】
+[17:46:41]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:42]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;37.xlsx】
+[17:46:42]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:44]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;38.xlsx】
+[17:46:44]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:46]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;39.xlsx】
+[17:46:46]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:48]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;4.xlsx】
+[17:46:48]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:49]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;40.xlsx】
+[17:46:49]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:52]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;42.xlsx】
+[17:46:52]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:54]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;43.xlsx】
+[17:46:54]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:56]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;44.xlsx】
+[17:46:56]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:46:58]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;45.xlsx】
+[17:46:58]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:47:01]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;46.xlsx】
+[17:47:01]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:47:04]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;47.xlsx】
+[17:47:04]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:47:07]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;48.xlsx】
+[17:47:07]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:47:09]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;5.xlsx】
+[17:47:09]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:47:12]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;6.xlsx】
+[17:47:12]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:47:15]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;7.xlsx】
+[17:47:15]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:47:18]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;8.xlsx】
+[17:47:18]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[17:47:20]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/设备按揭贷款-总/47-浦发2015年工程机械贷款资产证券\00受托报告数据提取;PuFa2015;报告期数;9.xlsx】
+[17:47:20]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')

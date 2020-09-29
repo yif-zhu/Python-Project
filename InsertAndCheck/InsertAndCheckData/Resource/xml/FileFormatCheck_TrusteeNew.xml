@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mapping AssetType="CarLoan" destfolder="C:/PyCharm/pdf-docx/source/Example/1" sourcefolder="C:/PyCharm/pdf-docx/source/Example/新模板数据">
+    <item desc="收益分配记录">
+        <cols>
+            <A desc="TrustBondID" dtype="int" emptybreak="1" nagroup="1" />
+            <C desc="期初余额" dtype="number" emptybreak="1" nagroup="1" />
+            <D desc="本金金额" dtype="number" nagroup="1" />
+            <E desc="利息还款" dtype="number" nagroup="1" />
+            <F desc="期末余额" dtype="number" nagroup="1" />
+        </cols>
+        <rows end="20" start="8" />
+    </item>
+    <item desc="资产池逾期表现">
+        <cols>
+            <A desc="科目" emptybreak="1" nagroup="1" />
+            <B desc="笔数" dtype="int" emptybreak="1" nagroup="1" />
+            <C desc="笔数占比" dtype="rate" nagroup="1" />
+            <D desc="金额" dtype="number" nagroup="1" />
+            <E desc="金额占比" dtype="rate" nagroup="1" />
+        </cols>
+        <rows end="32" start="24" />
+    </item>
+    <item desc="现金流归集">
+        <cols>
+            <A desc="计算日" dtype="date" emptybreak="1" nagroup="1" />
+            <B desc="期初本金金额" dtype="number" nagroup="1" />
+            <C desc="应收本金" dtype="number" nagroup="1" />
+            <D desc="应收利息" dtype="number" nagroup="1" />
+        </cols>
+        <rows end="182" start="36" useacturalend="1" />
+    </item>
+    <item desc="现金流归集">
+        <cols>
+            <A desc="计算日" dtype="date" emptybreak="1" nagroup="1" />
+        </cols>
+        <rows end="182" start="36" useacturalend="1" />
+    </item>
+    <item desc="资产池现金流详情" type="SpecificCells">
+        <M24 desc="利息-正常回收" dtype="number" />
+        <M25 desc="利息-提前偿还" dtype="number" />
+        <M26 desc="利息-拖欠回收" dtype="number" />
+        <M27 desc="利息-违约回收" dtype="number" />
+        <M28 desc="利息-资产赎回" dtype="number" />
+        <M29 desc="利息-清仓回购" dtype="number" />
+        <M31 desc="利息-其他收入" dtype="number" />
+        <M32 desc="利息-合格投资" dtype="number" />
+		<M33 desc="利息-上期转存" dtype="number" />
+        <M35 desc="本金-正常回收" dtype="number" />
+        <M36 desc="本金-提前偿还" dtype="number" />
+        <M37 desc="本金-拖欠回收" dtype="number" />
+        <M38 desc="本金-违约回收" dtype="number" />
+        <M39 desc="本金-资产赎回" dtype="number" />
+        <M40 desc="本金-清仓回购" dtype="number" />
+        <M42 desc="本金-其他收入" dtype="number" />
+        <M43 desc="本金-上期转存" dtype="number" />
+    </item>
+    <item desc="资产池情况" type="SpecificCells">
+        <M34 desc="收入合计" dtype="number" />
+        <M44 desc="本金合计" dtype="number" />
+        <M46 desc="税费-税收" dtype="number" />
+        <M47 desc="税费-服务总费" dtype="number" />
+        <M48 desc="税费-费用支出" dtype="number" />
+        <M49 desc="持续购买资产支出" dtype="number" />
+        <M50 desc="转存下期资金" dtype="number" />
+        <M51 desc="转存下期收入" dtype="number" />
+    </item>
+    <item desc="笔数与金额特征" type="SpecificCells">
+        <R24 desc="总笔数" dtype="int" />
+        <R25 desc="总户数" dtype="int" />
+        <R26 desc="未偿本金余额" dtype="number" />
+        <R27 desc="最高本金余额" dtype="number" />
+        <R28 desc="平均本金余额" dtype="number" />
+        <R32 desc="加权平均合同期限" dtype="number" />
+        <R33 desc="加权平均剩余期限" dtype="number" />
+        <R34 desc="加权平均账龄" dtype="number" />
+        <R35 desc="最长剩余期限" dtype="number" />
+        <R36 desc="最短剩余期限" dtype="number" />
+        <R41 desc="加权平均利率" dtype="rate" />
+        <R42 desc="最高利率" dtype="rate" />
+        <R43 desc="最低利率" dtype="rate" />
+    </item>
+    <item desc="违约处置状态" type="SpecificCells">
+        <L64 desc="汇总金额" dtype="number" />
+    </item>
+    <item desc="新增违约状态" type="SpecificCells">
+        <K70 desc="新增违约贷款" dtype="number" />
+        <K71 desc="欠款90天内" dtype="number" />
+    </item>
+    <item desc="累计违约率">
+        <cols>
+            <T desc="期数" dtype="int" emptybreak="1" nagroup="1" />
+            <V desc="累计违约率" dtype="rate" emptybreak="1" nagroup="1" />
+        </cols>
+        <rows end="69" start="24" useacturalend="1" />
+    </item>
+</mapping>

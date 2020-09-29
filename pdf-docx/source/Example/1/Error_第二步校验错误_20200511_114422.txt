@@ -1,0 +1,3 @@
+[11:44:25]:  
+【//172.16.7.114/已整理受托报告/9月开始新增受托报告/202004/新模板V4/企业贷款/韩永辉/刘心心/兴银2019年第一期信贷资产支持证券（第13期）\00受托报告数据提取;XingYin2019-1;报告期数;13.xlsx】
+[11:44:25]:  ('22018', "[22018] [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting the nvarchar value 'NA' to data type int. (245) (SQLExecDirectW)")

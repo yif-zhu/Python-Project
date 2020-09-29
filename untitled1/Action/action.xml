@@ -1,0 +1,6 @@
+<Action python = "template.py" function = "main">
+	<variable name = "input" value = "C:\\PyCharm\\pdf-docx\\source\\task2" mapping = ""></variable>
+	<variable name = "output" value = "C:\\PyCharm\\pdf-docx\\dest\\task2" mapping = ""></variable>
+	<variable name = "templateFilePath" value = "C:\\PyCharm\\pdf-docx\\受托报告导入模板-新.xlsx" mapping = ""></variable>
+	<variable name = "configFilePath" value = "C:\PyCharm\xml\444.xml" mapping = ""></variable>
+</Action>

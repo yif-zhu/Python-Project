@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapping destfolder="C:\PyCharm\untitled1\111" template="C:\PyCharm\untitled1\111\贷款服务报告导入模板(非持续购买).xlsx" writelog="0">
+	
+	<item desc="资产池整体表现情况" useTableName = "1">
+        <source tableName="Table_ArrearsSituation" anchor="(1)正常(本息无拖欠)" skiprows="-1" anchorend="(6)严重拖欠抵押贷款＝(4)$合格资产占比" cols="0,1,2,3,4" isReplace="true"> 
+		 	<A0>
+				<B0 value ="(1)正常" using= "replace" />
+			</A0>
+			<A1>
+				<B0 value ="(2)逾期1至30天" using= "replace" />
+			</A1>
+			<A2>
+				<B0 value ="(3)逾期31至60天" using= "replace" />
+			</A2>
+			<A3>
+				<B0 value ="(4)逾期61至90天" using= "replace" />
+			</A3>
+			<A4>
+				<B0 value ="(5)违约抵押贷款（逾期90天未被核销）" using= "replace" />
+			</A4>
+			<A5>
+				<B0 value ="严重拖欠抵押贷款＝(4)" using= "replace" />
+			</A5>
+					
+		</source>
+        <dest sheet="资产统计信息" limited="6" beginrow="4" cols="B,C,D,E,F"></dest>
+    </item>
+	
+	
+	<item desc="违约贷款处置情况" useTableName = "1">
+        <source tableName ="DisposalStatus" anchor="(1)经处置目前无拖欠" skiprows="-1" anchorend="(5)汇总" cols="0,1,2,3,4" isReplace="true">
+			<A0>
+				<B0 value ="经处置目前无拖欠" using= "replace" />
+			</A0>
+			<A1>
+				<B0 value ="非诉讼类处置" using= "replace" />
+			</A1>
+			<A2>
+				<B0 value ="诉讼处置" using= "replace" />
+				<B1 value ="    " using= "replace" />
+				<B2 value ="    " using= "replace" />
+				<B3 value ="    " using= "replace" />
+				<B4 value ="    " using= "replace" />			
+			</A2>
+			<A3>
+				<B0 value =" (1)进入诉讼准备程序" using= "replace" />
+			</A3>
+			<A4>
+				<B0 value =" (2)进入法庭受理程序" using= "replace" />
+			</A4>
+			<A5>
+				<B0 value =" (3)进入执行拍卖程序" using= "replace" />
+			</A5>
+			<A6>
+				<B0 value ="经处置已核销或结清" using= "replace" />
+			</A6>
+			<A7>
+				<B0 value ="汇总" using= "replace" />
+			</A7>
+		
+		</source>
+        <dest sheet="资产统计信息" limited="8" beginrow="32" cols="B,C,D,E,F"></dest>
+    </item>
+	
+	<item desc="入池资产笔数与金额特征" useTableName = "1">
+        <source tableName ="AssetPoolInformation" anchor="(1) 抵押贷款余额" skiprows="-1" anchorend="(5) 担保贷款本金余额" cols="0,1,2,3" isReplace="true">
+			<A0>
+				<B0 value ="抵押贷款余额" using= "replace" />
+			</A0>
+			<A1>
+				<B0 value ="抵押贷款数目" using= "replace" />
+			</A1>
+			<A2>
+				<B0 value ="单笔贷款最高本金余额" using= "replace" />
+			</A2>
+			<A3>
+				<B0 value ="单笔贷款平均本金余额" using= "replace" />
+			</A3>
+			<A4>
+				<B0 value ="担保贷款本金余额" using= "replace" />
+			</A4>
+		</source>
+        <dest sheet="资产统计信息" limited="5" beginrow="46" cols="B,C,D,E"></dest>
+    </item>
+	
+    <item desc="入池资产利率手续费率特征" useTableName = "1">
+        <source tableName ="AssetPoolInformation" anchor="(6) 加权平均抵押贷款利率 (%)" skiprows="-1" anchorend="(8) 最低贷款利率 (%)" cols="0,1,2,3" isReplace="true">
+			<A0>
+				<B0 value ="加权平均抵押贷款利率" using= "replace" />
+			</A0>
+			<A1>
+				<B0 value ="最高贷款利率" using= "replace" />
+			</A1>
+			<A2>
+				<B0 value ="最低贷款利率" using= "replace" />
+			</A2>
+		
+		</source>
+        <dest sheet="资产统计信息" limited="3" beginrow="74" cols="B,C,D,E"></dest>
+    </item>
+	
+	<item desc="入池资产期限特征" useTableName = "1">
+        <source tableName ="AssetPoolInformation" anchor="(9) 加权平均合同期限" skiprows="-1" anchorend="(13) 单笔贷款最短到期期限" cols="0,1,2,3" isReplace="true">
+			<A0>
+				<B0 value ="加权平均合同期限" using= "replace" />
+			</A0>
+			<A1>
+				<B0 value ="加权平均抵押贷款剩余期限" using= "replace" />
+			</A1>
+			<A2>
+				<B0 value ="加权平均账龄" using= "replace" />
+			</A2>
+			<A3>
+				<B0 value ="单笔贷款最长到期期限" using= "replace" />
+			</A3>
+			<A4>
+				<B0 value ="单笔贷款最短到期期限" using= "replace" />
+			</A4>		
+		</source>
+        <dest sheet="资产统计信息" limited="5" beginrow="60" cols="B,C,D,E"></dest>
+    </item>
+	
+	<item desc="累计违约率" useTableName = "1">
+        <source tableName ="CumulativeDefaultRate" anchor="累计违约率" skiprows="1" anchorend="" cols="0,1,2"></source>
+        <dest sheet="累计违约率" limited="0" beginrow="3" cols="A,B,C"></dest>
+    </item>
+	
+	<item desc="资产池现金流归集" useTableName = "1">
+        <source tableName ="Table_AssetCashFlow" anchor="信托核算日" skiprows="0" anchorend="" cols="0,1,2,3,4" isReplace = "false" dateFormat = "true" dateCol="0" day ="1">
+		</source>
+        <dest sheet="资产池现金流归集表" limited="0" beginrow="3" cols="A,B,C,D,E"></dest>
+    </item>
+	
+	<item desc="收款信息" type="supInfo" useTableName = "1">
+		<source tableName="CollectionInformation"  anchor="(1)计划内还款" skiprows="-1" anchorend="合计" cols="0,1,2,3,4,5,spaceValue,space,6,7,8,9,10,spaceValue"
+		colsNames="SubjectName,CurrentLoanCount,CurrentPrincipalAmount,CurrentInterestAmount,CurrentDefaultAmount,CurrentOtherAmount,CurrentInvestmentAmount,interval,PreviousLoanCount,PreviousPrincipalAmount
+,PrevioustInterestAmount,PreviousDefaultAmount,PreviousOtherAmount,PreviousInvestmentAmount" colsValue=",,,,,,0.00, ,,,,,,0.00" isReplace="true">
+
+		    <A0>
+				<B0 value ="计划内还款" using= "replace" />
+			</A0>
+			<A1>
+				<B0 value ="提前还款" using= "replace" />
+			</A1>
+			<A2>
+				<B0 value ="拖欠回收" using= "replace" />
+			</A2>
+			<A3>
+				<B0 value ="违约回收" using= "replace" />
+			</A3>
+			<A4>
+				<B0 value ="贷款赎回" using= "replace" />
+			</A4>
+			<A5>
+				<B0 value ="合计" using= "replace" />
+			</A5>			
+        </source>		
+		<dest ReportType="1" DataSource="50" TableCode="WeiYing_CashFlow" sheet="补充信息" limited="6" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+	
+
+	<item desc="收款信息" type="supInfo" useTableName = "1">
+		<source tableName="CollectionInformation"  anchor="本金回收款" skiprows="-1" anchorend="收入回收款" cols="0,1,6"
+		colsNames="SubjectName,CurrentTotalAmount,PreviousTotalAmount"/>		
+		<dest ReportType="1" DataSource="51" TableCode="WeiYing_TotalCashFlow" sheet="补充信息" limited="2" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+		
+	<item desc="累计违约信息" type="supInfo" useTableName = "1">
+		<source tableName="CumulativeDefaultInfo"  anchor="(1)累计违约时点违约抵押贷款本金余额" skiprows="-1" anchorend="(3)累计违约率(%)" cols="0,1,2,3,space"
+		colsNames="SubjectName,CurrentCloseing,PreviousCloseing,PrePreviousCloseing,interval" colsValue=",,,, "  isReplace="true">
+		    
+			<A0>
+				<B0 value ="累计违约时点违约抵押贷款本金金额" using= "replace" />
+			</A0>
+			<A1>
+				<B0 value ="累计回收本金" using= "replace" />
+			</A1>
+			<A2>
+				<B0 value ="累计违约率(%)" using= "replace" />
+			</A2>			
+	    </source>		
+		<dest ReportType="1" DataSource="52" TableCode="WeiYing_CumulativeDefaultInfo" sheet="补充信息" limited="3" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+	
+
+	<item desc="资产池统计信息" type="supInfo" useTableName = "1">
+		<source tableName="PoolStatisticsInfo"  anchor="（1）贷款笔数" skiprows="-1" anchorend="" cols="0,1,2,space,3,4,space,5,6"
+		colsNames="SubjectName,InitialCloseDate,InitialCloseDatePercentage,interval_1,CollectionStartDate,CollectionStartDatePercentage,interval_2
+,CollectionEndDate,CollectionEndDatePercentage"/>
+		<dest ReportType="1" DataSource="53" TableCode="WeiYing_PoolStatisticsInfo" sheet="补充信息" limited="2" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+
+	<item desc="扣款信息" type="supInfo" useTableName = "1">
+		<source tableName="TaxAndFeeOutFlow"  anchor="(1)执行费用扣款" skiprows="-1" anchorend="合计" cols="0,1,2,3,4,5,6"
+		colsNames="SubjectName,PrincipalRepayment,InterestRepayment,TotalRepayment,PrePrincipalRepayment,PreInterestRepayment,PreTotalRepayment" isReplace = "true">
+			<A0>
+				<B0 value ="执行费用扣款" using= "replace" />
+				<B3 using = "sum" cols="1,2"/>
+				<B6 using = "sum" cols="4,5"/>
+			</A0>
+		</source>				
+		<dest ReportType="1" DataSource="54" TableCode="WeiYing_TaxAndFeeOutFlow" sheet="补充信息" limited="1" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+
+
+	<item desc="扣款信息" type="supInfo" useTableName = "1">
+		<source tableName="TaxAndFeeOutFlow"  anchor="(3)代缴增值税及附加" skiprows="-1" anchorend="合计" cols="0,1,2,3,4,5,6"
+		colsNames="SubjectName_1,PrincipalRepayment_1,InterestRepayment_1,TotalRepayment_1,PrePrincipalRepayment_1,PreInterestRepayment_1,PreTotalRepayment_1" isReplace = "true">
+			<A0>
+				<B0 value ="代缴增值税及其附加" using= "replace" />
+				<B3 using = "sum" cols="1,2"/>
+				<B6 using = "sum" cols="4,5"/>
+			</A0>
+		</source>		
+		
+		<dest ReportType="1" DataSource="55" TableCode="WeiYing_TaxAndFeeOutFlow" sheet="补充信息" limited="1" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+		
+
+	<item desc="严重拖欠率" type="supInfo" useTableName = "1">
+		<source tableName="SevereDefaultRate"  anchor="严重拖欠率(%)" skiprows="-1" anchorend="三个收款期间平均（除了首个及第二个收款期间）" cols="1,2,3,4"
+		colsNames="CollectionEndDateRate,LastCollectionEndDateRate,FirstTwoCollectionEndDateRate,AverageRate"/>
+		<dest ReportType="1" DataSource="56" TableCode="WeiYing_SevereDefaultRate" sheet="补充信息" limited="1" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+
+	<item desc="提前偿还率" type="supInfo" useTableName = "1">
+		<source tableName="PrePaidRateInfo"  anchor="上一收款期间提前偿还率" skiprows="-1" anchorend="上一收款期间提前偿还率$利率" cols="1"
+		colsNames="PrePrepaidRate" itemName="1"/>
+		<dest ReportType="1" DataSource="57" TableCode="WeiYing_PrePaidRateInfo" sheet="补充信息" limited="1" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+
+	<item desc="提前偿还率" type="supInfo" useTableName = "1">
+		<source tableName="PrePaidRateInfo"  anchor="本收款期间提前偿还率" skiprows="-1" anchorend="本收款期间提前偿还率$利率" cols="1"
+		colsNames="PrePaidRate" itemName="2"/>
+		<dest ReportType="1" DataSource="57" TableCode="WeiYing_PrePaidRateInfo" sheet="补充信息" limited="1" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+
+
+	<item desc="新增违约抵押贷款" type="supInfo" useTableName = "1">
+		<source tableName="NewDefaultLoan_Supplimentary"  anchor="(1)本收款期内被重组、重新确定还款计划或展期的贷款" skiprows="-1" anchorend="(3)除以上二项外，其他根据服务程序被人工认定为损失类（五级分类）的贷款" cols="0,1,2,space,3,4,space,5,6"
+		colsNames="SubjectName,LC_CollectionPeriod,CPB_CollectionPeriod,interval_1,LC_LastCollectionPeriod,CPB_LastCollectionPeriod,interval_2,LC_FirstTwoCollectionPeriod,CPB_FirstTwoCollectionPeriod" isReplace = "true">
+			
+			<A0>
+				<B0 value ="本收款期内被重组、重新确定还款计划或展期的贷款" using= "replace" />
+			</A0>
+			<A1>
+				<B0 value ="本收款期内新增拖欠超过90天的抵押贷款" using= "replace" />
+			</A1>
+			<A2>
+				<B0 value ="除以上二项外，其他根据服务程序被人工认定为损失类(五级分类)的贷款" using= "replace" />
+			</A2>			
+	    </source>	
+		
+		<dest ReportType="1" DataSource="60" TableCode="WeiYing_NewDefaultLoan" sheet="补充信息" limited="3" beginrow="" cols="A,B,C,D,E,F"/>
+	</item>
+	
+	
+
+	
+	
+	
+	
+
+
+</mapping>

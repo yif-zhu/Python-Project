@@ -1,0 +1,3 @@
+[16:57:56]:  
+【//172.16.7.114/已整理受托报告/实习生-北京/2019年9月份开始新增的产品/9月份新增总/房贷\26组 杭盈2019年第一期个人住房抵押贷款资产支持证券（2-3期）\00受托报告数据提取;HangYing2019-1;报告期数;2.xlsx】
+[16:57:56]:  ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting nvarchar to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')

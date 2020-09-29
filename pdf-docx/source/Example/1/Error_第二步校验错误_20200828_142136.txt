@@ -1,0 +1,3 @@
+[14:21:44]:  
+【//172.16.7.114/已整理受托报告/9月开始新增受托报告/202008/ABS/清算报告V1/个人消费贷款/王刚依/康尤千/捷赢2019年第一期个人消费贷款资产支持证券\00受托报告数据提取;JieYing2019-1;清算报告.xlsx】
+[14:21:44]:  ('22001', '[22001] [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW); [22001] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')

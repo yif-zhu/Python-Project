@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42f90b27-42bf-4dc3-89a4-033fd4b130bf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PDF-To-Database/ReadPDF.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="85" column="50" lean-forward="true" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#156#438#0" />
+                <element signature="e#626#630#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/click.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ch.attrib.values()</find>
+      <find>type</find>
+      <find>self</find>
+      <find>self.</find>
+      <find>config</find>
+      <find>root.find(&quot;Mapping&quot;)</find>
+      <find>scriptFolder</find>
+      <find>logtxtFilePath</find>
+      <find>writeLog</find>
+      <find>cObj</find>
+      <find>str</find>
+      <find>matchCount</find>
+      <find>Verification</find>
+      <find>V3</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>datatype</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\PyCharm\untitled1\AutoPython</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Action/FileFormatCheck.py" />
+        <option value="$PROJECT_DIR$/Action/RunAction.py" />
+        <option value="$PROJECT_DIR$/Action/example.py" />
+        <option value="$PROJECT_DIR$/Config/config.xml" />
+        <option value="$PROJECT_DIR$/Action/matchXml.py" />
+        <option value="$PROJECT_DIR$/Action/test.py" />
+        <option value="$PROJECT_DIR$/111/ResolveDocx_JieYing-AddValue(3).py" />
+        <option value="$PROJECT_DIR$/docxFileTableCheck.py" />
+        <option value="$PROJECT_DIR$/AutoPython/FileFormatCheck_Trustee1.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/FileFormatCheck.py" />
+        <option value="$PROJECT_DIR$/AutoPython/ExtractAndInsert_Trustee1.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/FileFormatCheck_Trustee.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/FileFormatCheckFTP.py" />
+        <option value="$PROJECT_DIR$/AutoPython/logInsert.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/ExtractAndInsertLog.py" />
+        <option value="$PROJECT_DIR$/AutoPython/NonFileFormatCheck.py" />
+        <option value="$PROJECT_DIR$/AutoPython/NonFileFormatCheck_FTP.py" />
+        <option value="$PROJECT_DIR$/AutoPython/NonExtractAndInsert_FTP.py" />
+        <option value="$PROJECT_DIR$/AutoPython/ExtractAndInsert_FTP.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/ExtractAndInsertFTP.py" />
+        <option value="$PROJECT_DIR$/AutoPython/FileFormatCheck_FTP.xml" />
+        <option value="$PROJECT_DIR$/8.10池分布脚本测试.py" />
+        <option value="$PROJECT_DIR$/AutoPython/8.10池分布脚本测试.py" />
+        <option value="$PROJECT_DIR$/AutoPython/NonExtractAndInsert.py" />
+        <option value="$PROJECT_DIR$/ResolveDocx_JieYing-AddValue(3).py" />
+        <option value="$USER_HOME$/Desktop/产品校验和导入/ExtractAndInsert.py" />
+        <option value="$PROJECT_DIR$/AutoPython/InsertMissingPeriodLog_setting.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/NonExtractAndInsert_Trustee.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/InsertXXXXXModelLog_setting.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/InsertTrusteeModelLog_setting.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/InsertXXXXXModelLog.py" />
+        <option value="$PROJECT_DIR$/AutoPython/InsertTrusteeModelLog.py" />
+        <option value="$PROJECT_DIR$/AutoPython/NonFileFormatCheck_Trustee.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/InsertMissingPeriodLog.py" />
+        <option value="$PROJECT_DIR$/AutoPython/池分布检测1113.py" />
+        <option value="$PROJECT_DIR$/AutoPython/基础信息逻辑校验.py" />
+        <option value="$PROJECT_DIR$/AutoPython/InsertAllocatePeriodLog_setting.xml" />
+        <option value="$PROJECT_DIR$/AutoPython/InsertAllocatePeriodLog.py" />
+        <option value="$PROJECT_DIR$/BaseInfoCheck-V4.py" />
+        <option value="$PROJECT_DIR$/355.py" />
+        <option value="$PROJECT_DIR$/LoadFileToFTP.py" />
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/BaseInfoCheck-V5.0.py" />
+        <option value="$PROJECT_DIR$/PoolDistributionCheck-V5.py" />
+        <option value="$PROJECT_DIR$/TrustCalculationCheck.py" />
+        <option value="$PROJECT_DIR$/Request/Urllib1.py" />
+        <option value="$PROJECT_DIR$/Request/RequestTest1.py" />
+        <option value="$PROJECT_DIR$/click.py" />
+        <option value="$PROJECT_DIR$/AutoPython/ExtractAndInsert.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/PDF-To-Database/ReadPDF.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="165" />
+    <option name="y" value="95" />
+    <option name="width" value="1725" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InsertAndCheckData" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PyCharm\untitled1" />
+      <recent name="C:\PyCharm\untitled1\doc-To-Excel" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PyCharm\untitled1" />
+      <recent name="C:\PyCharm\untitled1\AutoPython" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ReadPDF">
+    <configuration name="ReadPDF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PDF-To-Database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PDF-To-Database/ReadPDF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RequestTest1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Request/RequestTest1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ResolveDocx_JieYing" type="PythonConfigurationType" factoryName="Python">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PyCharm\untitled1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\PyCharm\untitled1\doc-To-Excel\ResolveDocx_JieYing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Urllib1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Request/Urllib1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="click" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/click.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ResolveDocx_JieYing" />
+      <item itemvalue="Python.RequestTest1" />
+      <item itemvalue="Python.Urllib1" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.ReadPDF" />
+      <item itemvalue="Python.click" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ReadPDF" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.RequestTest1" />
+        <item itemvalue="Python.click" />
+        <item itemvalue="Python.Urllib1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42f90b27-42bf-4dc3-89a4-033fd4b130bf" name="Default Changelist" comment="" />
+      <created>1557985966146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557985966146</updated>
+      <workItem from="1557985991225" duration="590000" />
+      <workItem from="1557986873991" duration="819000" />
+      <workItem from="1557989846582" duration="25574000" />
+      <workItem from="1558402681450" duration="50374000" />
+      <workItem from="1558659255163" duration="33897000" />
+      <workItem from="1560233169617" duration="917000" />
+      <workItem from="1561011484445" duration="30075000" />
+      <workItem from="1561337167692" duration="9123000" />
+      <workItem from="1561424261209" duration="614000" />
+      <workItem from="1562546882357" duration="47145000" />
+      <workItem from="1562719655138" duration="23009000" />
+      <workItem from="1562824225215" duration="646000" />
+      <workItem from="1562829262469" duration="847000" />
+      <workItem from="1562895419743" duration="2440000" />
+      <workItem from="1562912068786" duration="414000" />
+      <workItem from="1562914190619" duration="3535000" />
+      <workItem from="1563244153863" duration="36959000" />
+      <workItem from="1563357849832" duration="27725000" />
+      <workItem from="1563515240943" duration="1859000" />
+      <workItem from="1563521143376" duration="643000" />
+      <workItem from="1563953306894" duration="709000" />
+      <workItem from="1564372621539" duration="4407000" />
+      <workItem from="1564485915160" duration="3012000" />
+      <workItem from="1564552477794" duration="682000" />
+      <workItem from="1564622587472" duration="16501000" />
+      <workItem from="1564890402796" duration="1202000" />
+      <workItem from="1564967777544" duration="8555000" />
+      <workItem from="1565058163681" duration="2177000" />
+      <workItem from="1565152453094" duration="1355000" />
+      <workItem from="1565160077146" duration="1320000" />
+      <workItem from="1565165855550" duration="3218000" />
+      <workItem from="1565338931173" duration="1495000" />
+      <workItem from="1565579758757" duration="987000" />
+      <workItem from="1565599538082" duration="5856000" />
+      <workItem from="1565664592750" duration="24000" />
+      <workItem from="1565666930905" duration="596000" />
+      <workItem from="1565765161387" duration="1475000" />
+      <workItem from="1565857668441" duration="5298000" />
+      <workItem from="1565919605769" duration="96184000" />
+      <workItem from="1566544166167" duration="1752000" />
+      <workItem from="1566787757469" duration="3413000" />
+      <workItem from="1566812380298" duration="22592000" />
+      <workItem from="1567481048086" duration="621000" />
+      <workItem from="1567586662513" duration="51000" />
+      <workItem from="1567647243330" duration="29000" />
+      <workItem from="1567652376013" duration="2516000" />
+      <workItem from="1567655332440" duration="95000" />
+      <workItem from="1567677742248" duration="82000" />
+      <workItem from="1567731614537" duration="1293000" />
+      <workItem from="1567737247858" duration="614000" />
+      <workItem from="1567750447464" duration="85000" />
+      <workItem from="1567758416042" duration="1936000" />
+      <workItem from="1567767243535" duration="8755000" />
+      <workItem from="1568016446133" duration="10511000" />
+      <workItem from="1568687600590" duration="22370000" />
+      <workItem from="1569380693934" duration="4403000" />
+      <workItem from="1569488860742" duration="1647000" />
+      <workItem from="1569581334656" duration="1535000" />
+      <workItem from="1569725224330" duration="7779000" />
+      <workItem from="1570500732898" duration="196000" />
+      <workItem from="1570503312554" duration="2829000" />
+      <workItem from="1570623370337" duration="654000" />
+      <workItem from="1572579079980" duration="10070000" />
+      <workItem from="1572850638104" duration="1514000" />
+      <workItem from="1573434092013" duration="273000" />
+      <workItem from="1573439644627" duration="920000" />
+      <workItem from="1573441839600" duration="2692000" />
+      <workItem from="1573711409132" duration="1621000" />
+      <workItem from="1573780124833" duration="4007000" />
+      <workItem from="1573810704301" duration="1013000" />
+      <workItem from="1574134608134" duration="7000" />
+      <workItem from="1575266467911" duration="2470000" />
+      <workItem from="1575335619227" duration="11000" />
+      <workItem from="1577073383894" duration="1150000" />
+      <workItem from="1577255461326" duration="236000" />
+      <workItem from="1577332013912" duration="1853000" />
+      <workItem from="1577345026884" duration="10000" />
+      <workItem from="1578383194824" duration="2124000" />
+      <workItem from="1578556754027" duration="79000" />
+      <workItem from="1579142731255" duration="615000" />
+      <workItem from="1584582765485" duration="307000" />
+      <workItem from="1584607061135" duration="1059000" />
+      <workItem from="1586746095760" duration="1845000" />
+      <workItem from="1587106833949" duration="662000" />
+      <workItem from="1587546298141" duration="10000" />
+      <workItem from="1590031751370" duration="1425000" />
+      <workItem from="1593486939971" duration="860000" />
+      <workItem from="1593675813323" duration="598000" />
+      <workItem from="1593769599663" duration="956000" />
+      <workItem from="1595387911130" duration="25974000" />
+      <workItem from="1596003428990" duration="3311000" />
+      <workItem from="1596088938166" duration="969000" />
+      <workItem from="1596098832711" duration="18683000" />
+      <workItem from="1596590091800" duration="7641000" />
+      <workItem from="1597022079429" duration="18476000" />
+      <workItem from="1597304914833" duration="1763000" />
+      <workItem from="1597366936555" duration="2843000" />
+      <workItem from="1597635578018" duration="7463000" />
+      <workItem from="1598260586757" duration="4449000" />
+      <workItem from="1600401171742" duration="1965000" />
+      <workItem from="1600755368235" duration="6177000" />
+      <workItem from="1600914533124" duration="44683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="730800000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1997319" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.54624665" visible="true" weight="0.28843337" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49396783" weight="0.46998537" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.45375335" side_tool="true" weight="0.28843337" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49798927" weight="0.329429" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32650074" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.329429" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.1266756" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/docxFileTableCheck.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/docxFileTableCheck.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AutoPython/NonFileFormatCheck_FTP.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8.10池分布脚本测试.py</url>
+          <line>166</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BaseInfoCheck-V4.py</url>
+          <line>1339</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BaseInfoCheck-V5.0.py</url>
+          <line>1175</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BaseInfoCheck-V5.0.py</url>
+          <line>947</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BaseInfoCheck-V5.0.py</url>
+          <line>943</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TrustCalculationCheck.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PDF-To-Database/ReadPDF.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="sheet[sList[col] + str(row)].value" />
+        <watch expression="cfgItem[0].attrib[&quot;anchor&quot;]" />
+        <watch expression="xmlPath" language="Python" />
+        <watch expression=" filenames" />
+        <watch expression="anchors[i]" />
+        <watch expression="sCols" />
+        <watch expression="dCols" />
+        <watch expression="file" />
+        <watch expression="intToletter(col)" />
+        <watch expression="matchCount" language="Python" />
+        <watch expression="rXml" />
+        <watch expression="row_xml" />
+        <watch expression="len(cell.tables)" />
+        <watch expression="tbIndex" />
+        <watch expression="outerIndex" />
+        <watch expression="row.cells[0].text.strip()" />
+        <watch expression="row.cells[0].text.strip()" />
+        <watch expression="a-b" />
+        <watch expression="c" />
+        <watch expression="a-b != c" />
+        <watch expression="sheet['C24']" />
+        <watch expression="ftp.nlst()" />
+        <watch expression="name" />
+        <watch expression="cfgRoot.attrib['sourceFilePath']" />
+        <watch expression="file_d" />
+        <watch expression="file" />
+        <watch expression="file['AmountPercentage'][val]" />
+        <watch expression="file['Amount'].index.values[i]" />
+        <watch expression="file['Amount'][val]" />
+        <watch expression="val" />
+        <watch expression="flag" />
+        <watch expression="cell" />
+        <watch expression="flag" />
+        <watch expression="RowName.text" />
+        <watch expression="sheet.cell(i, j).value" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled1$ResolveDocx_JieYing.coverage" NAME="ResolveDocx_JieYing Coverage Results" MODIFIED="1562553647422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$BaseInfoCheck_V5_0.coverage" NAME="BaseInfoCheck-V5.0 Coverage Results" MODIFIED="1597113372259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$RequestTest1.coverage" NAME="RequestTest1 Coverage Results" MODIFIED="1600936949332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Request" />
+    <SUITE FILE_PATH="coverage/untitled1$FileFormatCheck__1_.coverage" NAME="FileFormatCheck (1) Coverage Results" MODIFIED="1564710456534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$example.coverage" NAME="example Coverage Results" MODIFIED="1563263816380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$ResolveDocx_JieYing_AddValue__1_.coverage" NAME="ResolveDocx_JieYing-AddValue (1) Coverage Results" MODIFIED="1565060284242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$InsertAllocatePeriodLog.coverage" NAME="InsertAllocatePeriodLog Coverage Results" MODIFIED="1575271886331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$pdf2excel.coverage" NAME="pdf2excel Coverage Results" MODIFIED="1562916025596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$ExtractAndInsertLog.coverage" NAME="ExtractAndInsertLog Coverage Results" MODIFIED="1566269139526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$BaseInfoCheck_V4.coverage" NAME="BaseInfoCheck-V4 Coverage Results" MODIFIED="1586746848889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$dirorFile.coverage" NAME="dirorFile Coverage Results" MODIFIED="1563326990317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$355.coverage" NAME="355 Coverage Results" MODIFIED="1593487008888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$8_10__1_.coverage" NAME="8.10池分布脚本测试 (1) Coverage Results" MODIFIED="1566369647997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$InsertMissingPeriodLog.coverage" NAME="InsertMissingPeriodLog Coverage Results" MODIFIED="1567677786120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$InsertXXXXXModelLog.coverage" NAME="InsertXXXXXModelLog Coverage Results" MODIFIED="1569812802149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$docxFileTableCheck.coverage" NAME="docxFileTableCheck Coverage Results" MODIFIED="1564974925269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$RunAction.coverage" NAME="RunAction Coverage Results" MODIFIED="1563437049181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Action" />
+    <SUITE FILE_PATH="coverage/untitled1$.coverage" NAME="基础信息逻辑校验 Coverage Results" MODIFIED="1573784286963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$QuickFillExcel.coverage" NAME="QuickFillExcel Coverage Results" MODIFIED="1562829433797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$ReadPDF.coverage" NAME="ReadPDF Coverage Results" MODIFIED="1601281565748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PDF-To-Database" />
+    <SUITE FILE_PATH="coverage/untitled1$InsertTrusteeModelLog.coverage" NAME="InsertTrusteeModelLog Coverage Results" MODIFIED="1569812069458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$NonExtractAndInsert.coverage" NAME="NonExtractAndInsert Coverage Results" MODIFIED="1568882774408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$LoadFileToFTP.coverage" NAME="LoadFileToFTP Coverage Results" MODIFIED="1595414739725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$NonFileFormatCheck.coverage" NAME="NonFileFormatCheck Coverage Results" MODIFIED="1568164535519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$ExtractAndInsert.coverage" NAME="ExtractAndInsert Coverage Results" MODIFIED="1565920128889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$click.coverage" NAME="click Coverage Results" MODIFIED="1600935795870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$NonFileFormatCheck_FTP.coverage" NAME="NonFileFormatCheck_FTP Coverage Results" MODIFIED="1566284810016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$20190716_151804.coverage" NAME="20190716_151804 Coverage Results" MODIFIED="1563261598100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Action/Task" />
+    <SUITE FILE_PATH="coverage/untitled1$Urllib1.coverage" NAME="Urllib1 Coverage Results" MODIFIED="1600914150996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Request" />
+    <SUITE FILE_PATH="coverage/untitled1$ResolveDocx_JieYing_AddValue.coverage" NAME="ResolveDocx_JieYing-AddValue Coverage Results" MODIFIED="1561358880324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$NonExtractAndInsert_FTP.coverage" NAME="NonExtractAndInsert_FTP Coverage Results" MODIFIED="1566285079869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$8_10.coverage" NAME="8.10池分布脚本测试 Coverage Results" MODIFIED="1566463797473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$FileFormatCheckFTP.coverage" NAME="FileFormatCheckFTP Coverage Results" MODIFIED="1566198191156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$ResolveDocx_JieYing_AddValue_3_.coverage" NAME="ResolveDocx_JieYing-AddValue(3) Coverage Results" MODIFIED="1567135617130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$PoolDistributionCheck_V5.coverage" NAME="PoolDistributionCheck-V5 Coverage Results" MODIFIED="1597115864439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$FileFormatCheck.coverage" NAME="FileFormatCheck Coverage Results" MODIFIED="1565919972411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AutoPython" />
+    <SUITE FILE_PATH="coverage/untitled1$TrustCalculationCheck.coverage" NAME="TrustCalculationCheck Coverage Results" MODIFIED="1597635907184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$matchXml.coverage" NAME="matchXml Coverage Results" MODIFIED="1563516617162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Action" />
+    <SUITE FILE_PATH="coverage/untitled1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1596088987585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$20190716_145658.coverage" NAME="20190716_145658 Coverage Results" MODIFIED="1563262316398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Action/Task" />
+    <SUITE FILE_PATH="coverage/untitled1$test.coverage" NAME="test Coverage Results" MODIFIED="1601258748029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>正常汽车分期	75,544	99.90%	4,965,102,181.47	99.89% 逾期1-30天汽车分期	79	0.10%	5,532,092.33	0.11% 逾期31-60天汽车分期	0	0.00%	0.00	0.00% 逾期61-90天汽车分期	0	0.00%	0.00	0.00% 逾期90天以上汽车分期	0	0.00%	0.00	0.00% 回购或替换汽车分期	0	0.00%	0.00	0.00%</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>matchCount</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>xmlPath</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>'万元' in text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>for index, t in tables:</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tables[1][0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tables[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tables</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pdf.pages[74].extract_tables()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tables[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tables[0][1][2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>int(tables[0][1][2])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="2669" selection-start-line="2669" selection-end-line="2669" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.10池分布脚本测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+          <folding>
+            <element signature="e#24#43#0" expanded="true" />
+            <element signature="e#264#503#0" />
+            <element signature="e#5583#7679#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/Errors/Log_FormatCheck_08-28 113717.txt" />
+    <entry file="file://$PROJECT_DIR$/AutoPython/8.10池分布脚本测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="169" column="24" lean-forward="true" selection-start-line="169" selection-start-column="24" selection-end-line="169" selection-end-column="24" />
+          <folding>
+            <element signature="e#24#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="597" selection-start-line="597" selection-end-line="597" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/产品校验和导入/ExtractAndInsert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="239" lean-forward="true" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResolveDocx_JieYing-AddValue(3).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="344" column="34" lean-forward="true" selection-start-line="344" selection-start-column="34" selection-end-line="344" selection-end-column="34" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+            <element signature="e#8167#10789#0" />
+            <element signature="e#8941#10278#0" />
+            <element signature="e#12107#15853#0" />
+            <element signature="e#16760#19774#0" />
+            <element signature="e#19834#23502#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/NonFileFormatCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="174" column="62" selection-start-line="174" selection-start-column="62" selection-end-line="174" selection-end-column="62" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/NonFileFormatCheck_Trustee.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/NonExtractAndInsert_Trustee.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/InsertTrusteeModelLog_setting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/InsertXXXXXModelLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="125" column="12" selection-start-line="125" selection-start-column="12" selection-end-line="125" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/InsertXXXXXModelLog_setting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Action/action.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/InsertMissingPeriodLog_setting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/基础信息逻辑校验.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="55" column="18" lean-forward="true" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+          <folding>
+            <element signature="e#1668#4429#0" />
+            <element signature="e#4519#8176#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/池分布检测1113.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/InsertMissingPeriodLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1590">
+          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/InsertTrusteeModelLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="125" column="4" selection-start-line="125" selection-start-column="4" selection-end-line="125" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/NonExtractAndInsert_FTP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="296" column="6" selection-start-line="296" selection-end-line="296" selection-end-column="6" />
+          <folding>
+            <element signature="e#2705#3308#0" />
+            <element signature="e#3355#5057#0" />
+            <element signature="e#6229#9383#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/NonExtractAndInsert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="279" column="40" selection-start-line="279" selection-start-column="40" selection-end-line="279" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/InsertAllocatePeriodLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="106" column="33" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/InsertAllocatePeriodLog_setting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/encodings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseInfoCheck-V4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1327" lean-forward="true" selection-start-line="1327" selection-end-line="1327" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/zipfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1203" selection-start-line="1203" selection-end-line="1203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/ExtractAndInsertFTP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="253" column="51" selection-start-line="253" selection-start-column="32" selection-end-line="253" selection-end-column="51" />
+          <folding>
+            <element signature="e#237#476#0" />
+            <element signature="e#501#742#0" />
+            <element signature="e#769#1044#0" />
+            <element signature="e#1079#1343#0" />
+            <element signature="e#1378#1627#0" />
+            <element signature="e#1661#1916#0" />
+            <element signature="e#1943#2046#0" />
+            <element signature="e#2318#2647#0" />
+            <element signature="e#2695#3298#0" />
+            <element signature="e#3345#5047#0" />
+            <element signature="e#5085#5879#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadFileToFTP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="126" column="23" lean-forward="true" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdf2excel.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickFillExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3414">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="218" column="23" lean-forward="true" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1248">
+          <caret line="123" column="23" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#332#1502#0" />
+            <element signature="e#1553#2054#0" />
+            <element signature="e#2089#4127#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dirorFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseInfoCheck-V5.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17974">
+          <caret line="946" column="22" selection-start-line="946" selection-start-column="22" selection-end-line="946" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PoolDistributionCheck-V5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3135">
+          <caret line="165" column="73" selection-start-line="165" selection-start-column="73" selection-end-line="165" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrustCalculationCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3173">
+          <caret line="174" column="39" selection-start-line="174" selection-start-column="39" selection-end-line="174" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/355.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="17" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Request/py.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Request/Urllib1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pdfplumber/pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Request/RequestTest1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/ExtractAndInsert_Trustee.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="116" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/ExtractAndInsert_FTP.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="13" column="117" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/FileFormatCheckFTP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4294">
+          <caret line="226" column="35" lean-forward="true" selection-start-line="226" selection-start-column="35" selection-end-line="226" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoPython/ExtractAndInsert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3477">
+          <caret line="183" column="54" lean-forward="true" selection-start-line="183" selection-start-column="42" selection-end-line="183" selection-end-column="54" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pandas/core/tools/datetimes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="346" selection-start-line="346" selection-end-line="346" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDF-To-Database/ReadPDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="85" column="50" lean-forward="true" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#156#438#0" />
+            <element signature="e#626#630#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

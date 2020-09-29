@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Actions>
+	<Action AcitonName="第一步校验" ActionCode="FirstCheck" Id="1">
+		<Variable IsParameter="False" ParameterName="pyPath" Value="FileFormatCheck.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="XmlFile" Value="Resource/xml/FileFormatCheck_TrusteeNew_V4.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="inputFile" Value="C:/PyCharm/pdf-docx/source/Example/V4" VariableName="sourcefolder" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+	</Action>
+	<Action AcitonName="第二步校验" ActionCode="SecondCheck" Id="2">
+		<Variable IsParameter="False" ParameterName="pyFile" Value="ExtractAndInsert.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="XmlFile" Value="Resource/xml/ExtractAndInsert_TrusteeNew_V4.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="inputFile" Value="C:/PyCharm/pdf-docx/source/Example/V4" VariableName="sourcefolder" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+		<Variable IsParameter="True" ParameterName="AssetType" Value="ConsumerLoan" VariableName="AssetType" />
+	</Action>
+	<Action AcitonName="第三步校验" ActionCode="ThirdCheck" Id="3">
+		<Variable IsParameter="False" ParameterName="" Value="ThirdLogicalCheck.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="FileTranslator/ThirdLogicalCheck_Trustee.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="type" Value="3" VariableName="type" />
+		<Variable IsParameter="True" ParameterName="poolType" Value="1" VariableName="poolType" />
+		<Variable IsParameter="True" ParameterName="ExcelTypeId" Value="2" VariableName="ExcelTypeId" />
+		<Variable IsParameter="True" ParameterName="ImportTime" Value="2019/12/12 17:02" VariableName="ImportTime" />
+		<Variable IsParameter="True" ParameterName="AssetType" Value="CarLoan" VariableName="AssetType" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+		<Variable IsParameter="True" ParameterName="TrustId" Value="6986" VariableName="TrustId" />
+	</Action>
+	<Action AcitonName="数据对比" ActionCode="CompareCNABS" Id="4">
+		<Variable IsParameter="False" ParameterName="" Value="CompareCNABS.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="FileTranslator/CompareCNABS_Trustee.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="type" Value="3" VariableName="type" />gt
+		<Variable IsParameter="True" ParameterName="poolType" Value="1" VariableName="poolType" />
+		<Variable IsParameter="True" ParameterName="ImportTime" Value="2019/9/11 11:44" VariableName="ImportTime" />
+		<Variable IsParameter="True" ParameterName="AssetType" Value="CarLoan" VariableName="AssetType" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+		<Variable IsParameter="True" ParameterName="TrustId" Value="5077" VariableName="TrustId" />
+	</Action>
+	<Action AcitonName="基础信息校验" ActionCode="BaseInfoCheck" Id="5">
+		<Variable IsParameter="False" ParameterName="" Value="BaseInfoCheck.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="inputFile" Value="C:/PyCharm/pdf-docx/source/Example/V4" VariableName="sourcefolder" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+	</Action>
+</Actions>

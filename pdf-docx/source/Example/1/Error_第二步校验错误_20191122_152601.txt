@@ -1,0 +1,39 @@
+[15:31:05]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\27组 中电投融和融资租赁有限公司2018年度第一期资产支持票据\00受托报告数据提取;RongHe2018-1;报告期数;1.xlsx】
+[15:31:05]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_FactBondPayment'. Cannot insert duplicate key in object 'DVImport.FactBondPayment'. The duplicate key value is (6957, 1, 0). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[15:32:27]:  'NoneType' object has no attribute 'TrustId'
+[15:32:27]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\5组 国药控股(中国)融资租赁有限公司2017年度第一期资产支持票据\00受托报告数据提取;GuoYaoKongGuABN2017-1;报告期数;1.xlsx.xlsx】
+[15:32:27]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误
+[15:32:27]:  'NoneType' object has no attribute 'TrustId'
+[15:32:27]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\5组 国药控股(中国)融资租赁有限公司2017年度第一期资产支持票据\00受托报告数据提取;GuoYaoKongGuABN2017-1;报告期数;2.xlsx.xlsx】
+[15:32:27]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误
+[15:32:27]:  'NoneType' object has no attribute 'TrustId'
+[15:32:27]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\5组 国药控股(中国)融资租赁有限公司2017年度第一期资产支持票据\00受托报告数据提取;GuoYaoKongGuABN2017-1;报告期数;3.xlsx.xlsx】
+[15:32:27]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误
+[15:32:27]:  'NoneType' object has no attribute 'TrustId'
+[15:32:27]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\5组 国药控股(中国)融资租赁有限公司2017年度第一期资产支持票据\00受托报告数据提取;GuoYaoKongGuABN2017-1;报告期数;4.xlsx.xlsx】
+[15:32:27]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误
+[15:32:27]:  'NoneType' object has no attribute 'TrustId'
+[15:32:27]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\5组 国药控股(中国)融资租赁有限公司2017年度第一期资产支持票据\00受托报告数据提取;GuoYaoKongGuABN2017-1;报告期数;5.xlsx.xlsx】
+[15:32:27]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误
+[15:32:27]:  'NoneType' object has no attribute 'TrustId'
+[15:32:27]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\5组 国药控股(中国)融资租赁有限公司2017年度第一期资产支持票据\00受托报告数据提取;GuoYaoKongGuABN2017-1;报告期数;6.xlsx.xlsx】
+[15:32:27]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误
+[15:32:27]:  'NoneType' object has no attribute 'TrustId'
+[15:32:27]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\5组 国药控股(中国)融资租赁有限公司2017年度第一期资产支持票据\00受托报告数据提取;GuoYaoKongGuABN2017-1;报告期数;7.xlsx.xlsx】
+[15:32:27]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误
+[15:32:27]:  'NoneType' object has no attribute 'TrustId'
+[15:32:27]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\5组 国药控股(中国)融资租赁有限公司2017年度第一期资产支持票据\00受托报告数据提取;GuoYaoKongGuABN2017-1;报告期数;8.xlsx.xlsx】
+[15:32:27]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误
+[15:32:27]:  'NoneType' object has no attribute 'TrustId'
+[15:32:27]:  
+【//172.16.6.143/StudentsProducts/1112支持票据任务/资产运营报告/融资租赁\5组 国药控股(中国)融资租赁有限公司2017年度第一期资产支持票据\00受托报告数据提取;GuoYaoKongGuABN2017-1;报告期数;9.xlsx.xlsx】
+[15:32:27]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误

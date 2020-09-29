@@ -1,0 +1,61 @@
+#Main{
+    background-color: white;
+}
+#Main>QWidget{background-color: rgb(255, 255, 255);}
+
+#body{
+    border-top: 3px solid #E6E6E6;
+}
+#Main QPushButton{
+    background-color: #5867a6;
+    min-width: 90px;
+    min-height: 30px;
+    max-width: 90px;
+    max-height: 30px;
+
+    color: #FFFFFF;
+    border:3px solid #F3F5FA;
+    border-radius:2px
+}
+#body QPushButton:hover{
+    background-color: #E6E6E6;
+}
+QVBoxLayount{
+    background-color: rgb(255, 250, 230);
+}
+
+#title {
+    max-height:40px;
+    min-height:40px
+}
+
+#bottom {
+    max-height:100px;
+    min-height:40px;
+    margin-bottom:15px
+}
+QPushButton {
+    min-width: 90px;
+    min-height: 36px;
+    max-width: 90px;
+    background-color: #5867a6;
+    color: #FFFFFF;
+    border:3px solid #F3F5FA;
+    border-radius:2px
+}
+QComboBox { min-height: 35px; min-width: 640px; }
+QComboBox QAbstractItemView::item { min-height: 35px; min-width: 640px; }
+QPushButton:hover{
+    background-color: #7388da;
+}
+#submit{
+    margin-left: 410px;
+    margin-bottom: 40px;
+}
+/*#btn_add {*/
+/*    image:url(Resource/icon/Icon_plus.ico);*/
+/*}*/
+
+
+
+

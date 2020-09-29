@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<result inputFile="C:/PyCharm/pdf-docx/source/Example/1 海田2017年第一期个人汽车抵押贷款资产支持证券（共14期）\00受托报告数据提取;HaiTian2017-1;报告期数;11.xlsx" inputSheetIndex="0" inputSheetName="Sheet1" multiply="false" outputFile="C:/PyCharm/pdf-docx/source/Example/1 海田2017年第一期个人汽车抵押贷款资产支持证券（共14期）\00受托报告数据提取;HaiTian2017-1;报告期数;11.xlsx" outputSheetIndex="1" outputSheetName="格式检查">
+	<Mapping description="源文件，目标文件对应情况">
+	<map comment="【现金流归集表】当期期初本金金额 [200063.07] 小于等于应收本金金额 [200063.07] 数据对应关系错误" destCell="A2" destcolor="255,230,153" sourcecell="B53;C53" sourcecolor="255,230,153" />
+</Mapping>
+</result>

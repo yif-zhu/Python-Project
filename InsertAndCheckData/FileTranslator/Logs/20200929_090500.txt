@@ -1,0 +1,4 @@
+[09:05:18]:  ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PortfolioManagemnt.DvImport.StaticPoolData'. (208) (SQLExecDirectW)")
+[09:05:22]:  ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PortfolioManagemnt.DvImport.StaticPoolData'. (208) (SQLExecDirectW)")
+[09:05:26]:  ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PortfolioManagemnt.DvImport.StaticPoolData'. (208) (SQLExecDirectW)")
+[09:05:30]:  ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PortfolioManagemnt.DvImport.StaticPoolData'. (208) (SQLExecDirectW)")

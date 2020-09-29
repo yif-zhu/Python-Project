@@ -1,0 +1,6 @@
+[13:59:59]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1.xlsx
+[13:59:59]:  【文件名错误】文件名称命名不规范
+[14:00:00]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;2.xlsx
+[14:00:00]:  【文件名错误】文件名称命名不规范

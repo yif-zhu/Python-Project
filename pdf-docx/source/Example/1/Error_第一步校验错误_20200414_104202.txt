@@ -1,0 +1,3 @@
+[10:42:02]:  
+C:/PyCharm/pdf-docx/source/Example/清算报告/不良\00受托报告数据提取;ChengYi2018-1;清算报告.xlsx
+[10:42:02]:  【有格式错误】详情见文档[格式检查]sheet

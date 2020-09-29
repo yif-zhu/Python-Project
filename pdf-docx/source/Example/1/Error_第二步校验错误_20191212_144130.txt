@@ -1,0 +1,30 @@
+[14:41:30]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1.xlsx】
+[14:41:30]:  【错误】文件名称命名不规范
+[14:41:31]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx】
+[14:41:31]:  ('42000', "[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function 'ClearLastTimeImport' expects parameter '@ExcelTypeId', which was not supplied. (201) (SQLExecDirectW)")
+[14:41:32]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx】
+[14:41:32]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_FactBondPayment'. Cannot insert duplicate key in object 'DVImport.FactBondPayment'. The duplicate key value is (6986, 1, 0). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[14:41:34]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx】
+[14:41:34]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_PoolArrearsDistribution'. Cannot insert duplicate key in object 'DVImport.PoolArrearsDistribution'. The duplicate key value is (6986, 1, 正常). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[14:41:36]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx】
+[14:41:36]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_PoolCashflowDetails'. Cannot insert duplicate key in object 'DVImport.PoolCashflowDetails'. The duplicate key value is (6986, 1). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[14:41:38]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx】
+[14:41:38]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_PoolCashflow'. Cannot insert duplicate key in object 'DVImport.PoolCashflow'. The duplicate key value is (6986, 1). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[14:41:40]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx】
+[14:41:40]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_PoolStatistics'. Cannot insert duplicate key in object 'DVImport.PoolStatistics'. The duplicate key value is (6986, 1). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[14:41:42]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx】
+[14:41:42]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_PoolCumulativeDefaultAmount'. Cannot insert duplicate key in object 'DVImport.PoolCumulativeDefaultAmount'. The duplicate key value is (6986, 1). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[14:41:45]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx】
+[14:41:45]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_PoolCumulativeDefaultRate'. Cannot insert duplicate key in object 'DVImport.PoolCumulativeDefaultRate'. The duplicate key value is (6986, 1, 1). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[14:41:49]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx】
+[14:41:49]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK__Recurrin__76AB01D7039BF3A9'. Cannot insert duplicate key in object 'DVImport.RecurringExpiryDate'. The duplicate key value is (6986, 1). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")

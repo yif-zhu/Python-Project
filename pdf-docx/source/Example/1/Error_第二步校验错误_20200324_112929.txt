@@ -1,0 +1,18 @@
+[11:29:33]:  
+【C:/PyCharm/pdf-docx/source/Example/清算报告\00受托报告数据提取;HeJia2019-1;清算报告.xlsx】
+[11:29:33]:  ('21S01', '[21S01] [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition. (213) (SQLExecDirectW)')
+[11:29:34]:  
+【C:/PyCharm/pdf-docx/source/Example/清算报告\00受托报告数据提取;HeJia2019-1;清算报告.xlsx】
+[11:29:34]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK__PoolTrus__7CC762A8784F1E73'. Cannot insert duplicate key in object 'DVImport.PoolTrustIncomeLiquidation'. The duplicate key value is (9940, 999, 初始起算日未偿（债权）本金余额总额（资产端）). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[11:29:34]:  
+【C:/PyCharm/pdf-docx/source/Example/清算报告\00受托报告数据提取;HeJia2019-1;清算报告.xlsx】
+[11:29:34]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK__FactLoan__C232BCA0201B5A58'. Cannot insert duplicate key in object 'DVImport.FactLoanPaymentLiquidation'. The duplicate key value is (9940, 999, 0). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[11:29:35]:  
+【C:/PyCharm/pdf-docx/source/Example/清算报告\00受托报告数据提取;HeJia2019-1;清算报告.xlsx】
+[11:29:35]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK__DateSumm__76AB01D7E3E66CBC'. Cannot insert duplicate key in object 'DVImport.DateSummaryLiquidation'. The duplicate key value is (9940, 999). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[11:29:35]:  
+【C:/PyCharm/pdf-docx/source/Example/清算报告\00受托报告数据提取;HeJia2019-1;清算报告.xlsx】
+[11:29:35]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK__RemainTr__76AB01D7E656D563'. Cannot insert duplicate key in object 'DVImport.RemainTrustLiquidation'. The duplicate key value is (9940, 999). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")
+[11:29:35]:  
+【C:/PyCharm/pdf-docx/source/Example/清算报告\00受托报告数据提取;HeJia2019-1;清算报告.xlsx】
+[11:29:35]:  No results.  Previous SQL was not a query.

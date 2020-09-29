@@ -1,0 +1,512 @@
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\2005年第一期开元信贷_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+0,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+1,'付息频率填写错误!'
+1,'还本付息方式填写错误!'
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+2,'付息频率填写错误!'
+2,'还本付息方式填写错误!'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+填写值为 (IsTopUpAvailable) 错误 -只能填写- True,False
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_CollectionDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_CollectionDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_PaymentDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_PaymentDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\2006年第一期开元信贷_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+0,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+1,'付息频率填写错误!'
+1,'还本付息方式填写错误!'
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+2,'付息频率填写错误!'
+2,'还本付息方式填写错误!'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+填写值为 (IsTopUpAvailable) 错误 -只能填写- True,False
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_CollectionDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_CollectionDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_PaymentDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_PaymentDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\不良资产支持证券_个人住房类贷款_其他_中国工商银行_工元至诚2019年第三期不良资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+1,'还本付息方式填写错误!'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\不良资产支持证券_个人住房类贷款_其他_中国工商银行_工元至诚2019年第二期不良资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+2,'固定摊还应有还本计划'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额2470000000与层级金额1630084000相加不符
+TrustExtension
+B_CollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\不良资产支持证券_个人住房类贷款_其他_招商银行_和萃2019年第二期不良资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+1,'还本付息方式填写错误!'
+1,'利率形式填写错误!',零息式,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化__住房贷款_上海市公积金管理中心_沪公积金2015年第一期个人住房贷款资产支持证券_基础表.xlsx
+TrusrBond
+2,'付息频率填写错误!'
+2,'还本付息方式填写错误!'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额1939733927.24与层级金额1939733900相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化__重整资产_中国建设银行_建元2008年第一期重整资产证券化信托支持证券_基础表.xlsx
+TrusrBond
+1,'付息频率填写错误!'
+1,'还本付息方式填写错误!'
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+2,'付息频率填写错误!'
+2,'还本付息方式填写错误!'
+2,'计息方式填写错误!'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_InterestCollectionDate_Frequency,填写值为 (NR) 错误 -只能填写- 1、3、6、12'
+B_InterestCollectionDate_ConditionTarget,'填写值为 (NR) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_不良资产_其他_中国建设银行_建鑫2019年第五期不良资产支持证券_基础表.xlsx
+TrusrBond
+1,'计息方式填写错误!'
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_不良资产_其他_建鑫2019年第六期不良资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+2,'还本付息方式填写错误!'
+发行金额3535000000与层级金额335000000相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_不良资产_其他_浦发银行_浦鑫归航2019年第三期不良资产支持证券_基础表.xlsx
+TrusrBond
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额194000000与层级金额184300000相加不符
+TrustExtension
+B_CollectionDate_Frequency,填写值为 (30) 错误 -只能填写- 1、3、6、12'
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_不良资产重组_其他_中国信达资产管理公司_信元2008年第一期信贷资产支持证券_基础表.xlsx
+TrusrBond
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrusrBond_检测出错！
+TrustExtension
+B_InterestCollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+B_CollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房抵押贷款_其他_中国建设银行_建元2019年第八期个人住房贷款支持证券_基础表.xlsx
+TrusrBond
+3,'还本付息方式填写错误!'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额9200199662.49与层级金额9110199662.49相加不符
+TrustExtension
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_CollectionDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_CollectionDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_PaymentDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_PaymentDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房抵押贷款_其他_中盈万家2019年第三期个人住房抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+2,'还本付息方式填写错误!'
+2,'利率形式填写错误!',无票面利率,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房抵押贷款_其他_兴业皖新阅嘉一期房地产投资信托基金(REIT)资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+0,债券层级填写错误!
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房抵押贷款_其他_工元宜居2019年第二期个人住房抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+1.0,'还本付息方式填写错误!'
+发行金额14995058635.49与层级金额13300000000相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房抵押贷款_其他_惠益2019年第九期个人住房抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+1,'还本付息方式填写错误!'
+2,'还本付息方式填写错误!'
+3,'还本付息方式填写错误!'
+3,'利率形式填写错误!',无,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房抵押贷款_其他_惠益2019年第八期个人住房抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+0.0,'固定摊还应有还本计划'
+1.0,'还本付息方式填写错误!'
+发行金额3369850072.7与层级金额2960000000相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房贷款_其他_上海公积金中心_沪公积金2016年第二期个人住房贷款资产支持证券_基础表.xlsx
+TrusrBond
+0,SecurityExchangeCode,'不能包含英文字符'
+1,SecurityExchangeCode,'不能包含英文字符'
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房贷款_其他_上海市公积金管理中心_沪公积金2016年第一期个人住房贷款资产支持证券_基础表.xlsx
+TrusrBond
+1,'还本付息方式填写错误!'
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房贷款_其他_杭州公积金2016年第一期个人住房贷款资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+1,'固定摊还应有还本计划'
+2,'固定摊还应有还本计划'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人住房贷款_其他_武汉公积金2016年第一期个人住房贷款资产支持证券_基础表.xlsx
+TrusrBond
+1,'还本付息方式填写错误!'
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+2,'付息频率填写错误!'
+2,'还本付息方式填写错误!'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车抵押贷款_其他_上汽财务_上和2019年第三期个人汽车抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+3,'还本付息方式填写错误!'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_CollectionDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_CollectionDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_PaymentDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_PaymentDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_上汽通用金融_通元2008年第一期个人汽车抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+0,SecurityExchangeCode,'不能包含英文字符'
+1,SecurityExchangeCode,'不能包含英文字符'
+2,SecurityExchangeCode,'不能包含英文字符'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额1993462461与层级金额1993462500相加不符
+TrustExtension
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_InterestCollectionDate_Frequency,填写值为 (NR) 错误 -只能填写- 1、3、6、12'
+B_InterestCollectionDate_Condition,填写值为 (nan) 错误 -只能填写-True or False'
+B_InterestCollectionDate_ConditionTarget,'填写值为 (NR) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+B_CollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+B_PaymentDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_上汽通用金融_通元2012年第一期汽车抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+0,'计息方式填写错误!'
+1,'计息方式填写错误!'
+2,'计息方式填写错误!'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+TrustExtension_检测出错！
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_上汽集团财务_2012上元一期汽车抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+发行金额999989276.23与层级金额999990000相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_东风汽车财务_和衷2019年第二期个人汽车贷款资产支持证券_基础表.xlsx
+TrusrBond
+3,'计息方式填写错误!'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_吉致汽车_吉时代2019年第二期个人汽车抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+3,'计息方式填写错误!'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+填写值为 (IsTopUpAvailable) 错误 -只能填写- True,False
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_和衷2019年第三期个人汽车贷款资产支持证券_基础表.xlsx
+TrusrBond
+1.0,'还本付息方式填写错误!'
+发行金额4996506781.02与层级金额4350000000相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_宝马金融_德宝天元2019年第二期个人汽车抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+1,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+B_InterestCollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+B_CollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_平安银行_安行2019年第一期汽车抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_瑞泽2019年第二期个人汽车抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+2,'付息频率填写错误!'
+2,'还本付息方式填写错误!'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人汽车贷款_其他_福特金融_福元2019年第一期个人汽车抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+B_CollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人消费贷款_其他_招商银行_和智2019年第三期个人消费贷款资产支持证券_基础表.xlsx
+TrusrBond
+3,'计息方式填写错误!'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额10029418116.52与层级金额19042181160相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人消费贷款_其他_招商银行_和智2019年第五期个人消费贷款资产支持证券_基础表.xlsx
+TrusrBond
+3,'计息方式填写错误!'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_个人消费贷款_其他_招商银行_和智2019年第四期个人消费贷款资产支持证券_基础表.xlsx
+TrusrBond
+3,'计息方式填写错误!'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_2013年第一期进元信贷资产证券_基础表.xlsx
+TrusrBond
+0,SecurityExchangeCode,'不能包含英文字符'
+1,SecurityExchangeCode,'不能包含英文字符'
+2,SecurityExchangeCode,'不能包含英文字符'
+2,'付息频率填写错误!'
+2,'还本付息方式填写错误!'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额1039616755.0与层级金额1039620000相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_中信银行_信银2008年第一期信贷资产证券化信托资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+1,'固定摊还应有还本计划'
+TrustExtension
+B_PaymentDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_中国工商银行_工元2008年第一期信贷资产证券化信托资产支持证券_基础表.xlsx
+TrusrBond
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额8011035000与层级金额12070350000相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_中国工商银行_工元2013年第一期信贷资产证券化信托资产支持证券_基础表.xlsx
+TrusrBond
+0.0,SecurityExchangeCode,'不能包含英文字符'
+1.0,SecurityExchangeCode,'不能包含英文字符'
+1.0,'债券层级填写错误'
+发行金额3592350000与层级金额3210000000相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_中银2012年第一期信贷资产支持证券_基础表.xlsx
+TrusrBond
+0,SecurityExchangeCode,'不能包含英文字符'
+1,SecurityExchangeCode,'不能包含英文字符'
+2,SecurityExchangeCode,'不能包含英文字符'
+3,SecurityExchangeCode,'不能包含英文字符'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_兴业银行_兴银2019年第四期信贷资产证券_基础表.xlsx
+TrusrBond
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_国家开发银行_开元2008年第一期信贷资产证券化信托资产支持证券_基础表.xlsx
+TrusrBond
+3,'付息频率填写错误!'
+3,'还本付息方式填写错误!'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+B_InterestCollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_招商银行_招元2008年第一期信贷资产证券化信托资产支持证券_基础表.xlsx
+TrusrBond
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_杭州银行_钱江2019年第一期信贷资产支持证券_基础表.xlsx
+TrusrBond
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额2944087600与层级金额919087600相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_企业贷款_其他_浙商银行_浙元2008年第一期小企业贷款资产支持证券_基础表.xlsx
+TrusrBond
+1.0,'债券层级填写错误'
+发行金额696370000与层级金额616287500相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_住房抵押贷款_其他_浦发银行_浦鑫2019年第一期个人住房抵押贷款资产支持证券_基础表.xlsx
+TrusrBond
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额5051105463.41与层级金额3566105463.41相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_信托资产_其他_上海浦东发展银行_浦东2007年第一期信贷资产证券化信托资产支持证券_基础表.xlsx
+TrusrBond
+1.0,'付息频率填写错误!'
+1.0,'还本付息方式填写错误!'
+2.0,'付息频率填写错误!'
+2.0,'还本付息方式填写错误!'
+发行金额4383260000与层级金额4229845900相加不符
+TrustExtension
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_CollectionDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_CollectionDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_PaymentDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_PaymentDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_信用贷款_其他_兴业银行_兴业银行2007年兴元一期信贷资产支持证券_基础表.xlsx
+TrusrBond
+0,SecurityExchangeCode,'不能包含英文字符'
+0,'固定摊还应有还本计划'
+1,SecurityExchangeCode,'不能包含英文字符'
+2,SecurityExchangeCode,'不能包含英文字符'
+3,SecurityExchangeCode,'不能包含英文字符'
+3,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+填写值为 (IsTopUpAvailable) 错误 -只能填写- True,False
+B_InterestCollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+B_CollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_信贷资产支持证券_其他_中国工商银行_中国工商银行2007年工元一期信贷资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+发行金额4021000000与层级金额3795000000相加不符
+TrustExtension
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_CollectionDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_CollectionDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_PaymentDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_PaymentDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_小企业贷款_其他_国家开发银行_开元2012年第一期信贷资产支持证券_基础表.xlsx
+TrusrBond
+0.0,'固定摊还应有还本计划'
+1.0,'固定摊还应有还本计划'
+2.0,'固定摊还应有还本计划'
+发行金额10166440000与层级金额5160000000相加不符
+TrustExtension
+B_CollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_小微贷款_其他_浙商银行_旭越2019年第一期微小企业贷款资产支持证券发_基础表.xlsx
+TrusrBond
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+TrustExtension
+B_CollectionDate_FirstDate,第一个计息日应大于产品成立日,小于法定到期日
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_微小企业贷款_其他_温州银行_温润2019年第一期微小企业贷款资产支持证券_基础表.xlsx
+TrusrBond
+2,'付息频率填写错误!'
+2,'利率形式填写错误!',nan,'--应该填写固定利率或浮动利率'
+发行金额2316005689与层级金额2316005700相加不符
+TrustExtension
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_CollectionDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_CollectionDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+B_InterestCollectionDate_FirstDate,B_CollectionDate_FirstDate,B_PaymentDate_FirstDate -日期格式填写错误,应为‘YYYY-mm-dd’
+B_PaymentDate_Frequency,填写值为 (nan) 错误 -只能填写- 1、3、6、12'
+B_PaymentDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_租赁贷款_其他_冀租稳健2019年第一期租赁资产支持证券_基础表.xlsx
+TrusrBond
+0,'固定摊还应有还本计划'
+1,'还本付息方式填写错误!'
+2,'还本付息方式填写错误!'
+发行金额198350.91与层级金额1983509087.75相加不符
+TrustExtension
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_重整资产_其他_东方公司_东元2006年第一期优先级重整资产支持证券_基础表.xlsx
+TrusrBond
+TrustExtension
+填写值为 (IsTopUpAvailable) 错误 -只能填写- True,False
+
+
+\\172.16.7.114\已整理受托报告\实习生-北京\2019年9月份开始新增的产品\10月份新增总\说明书\基础表\信贷资产证券化_重整资产_其他_信达公司_信元2006年第一期优先级重整资产支持证券_基础表.xlsx
+TrusrBond
+TrustExtension
+B_CollectionDate_ConditionTarget,'填写值为 (nan) 错误 -只能填写- BeginingOfMonth,EndOfMonth
+
+

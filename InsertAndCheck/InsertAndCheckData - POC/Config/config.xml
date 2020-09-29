@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root>
+	<OutputFolder>
+	</OutputFolder>
+<xmlFIle>
+	<File Name="新模板V1第一步校验.xml">FileTranslator/FileFormatCheck_Trustee.xml</File>
+	<File Name="新模板V1第二步校验.xml">Resource/xml/ExtractAndInsert_Trustee.xml</File>
+	<File Name="新模板V1.1第一步校验.xml">Resource/xml/FileFormatCheck_TrusteeV1.1.xml</File>
+	<File Name="新模板V1.1第二步校验.xml">Resource/xml/ExtractAndInsert_TrusteeV1.1.xml</File>
+	<File Name="新模板V2第一步校验.xml">Resource/xml/FileFormatCheck_TrusteeNew.xml</File>
+	<File Name="新模板V2第二步校验.xml">Resource/xml/ExtractAndInsert_TrusteeNew.xml</File>
+	<File Name="新模板V3第一步校验.xml">Resource/xml/FileFormatCheck_TrusteeNew_V2.xml</File>
+	<File Name="新模板V3第二步校验.xml">Resource/xml/ExtractAndInsert_TrusteeNew_V2.xml</File>
+	<File Name="不良资产V1第一步校验.xml">Resource/xml/NonFileFormatCheck_Trustee.xml</File>
+	<File Name="不良资产V1第二步校验.xml">Resource/xml/NonExtractAndInsert_Trustee.xml</File>
+	<File Name="不良资产V2第一步校验.xml">Resource/xml/NonFileFormatCheck_TrusteeNew.xml</File>
+	<File Name="不良资产V2第二步校验.xml">Resource/xml/NonExtractAndInsert_TrusteeNew.xml</File>
+	<File Name="新模板V4第一步校验_POC.xml">Resource/xml/FileFormatCheck_TrusteeNew_V4.xml</File>
+	<File Name="新模板V4第二步校验_POC.xml">Resource/xml/ExtractAndInsert_TrusteeNew_V4.xml</File>
+</xmlFIle>
+<templateFile>
+	<File Name="不良资产第一步校验.py">NonFileFormatCheck.py</File>
+	<File Name="不良资产第二步校验.py">NonExtractAndInsert.py</File>
+	<File Name="正常资产第一步校验.py">FileFormatCheck.py</File>
+	<File Name="正常资产第二步校验.py">ExtractAndInsert.py</File>
+</templateFile>
+<AssetType>
+	<File Name="住房抵押贷款">HouseLoan</File>
+	<File Name="个人汽车贷款">CarLoan</File>
+	<File Name="个人消费贷款">ConsumerLoan</File>
+	<File Name="企业贷款">CreditLoan</File>
+	<File Name="小微贷款">SmallLoan</File>
+	<File Name="租赁资产">Lease</File>
+	<File Name="不良资产重组">NPL</File>
+	<File Name="汽车租赁分期">CarLease</File>
+	<File Name="现金贷">CashLoan</File>
+	<File Name="过桥资金">Bridging</File>
+	<File Name="REITs">REITs</File>
+	<File Name="保理融资">Factoring</File>
+	<File Name="收费收益权">SFSYQ</File>
+	<File Name="信托受益权">XTSYQ</File>
+	<File Name="融资租赁">financialLease</File>
+	<File Name="应收账款">Receivables</File>
+	<File Name="股票质押回购">GPZYHG</File>
+	<File Name="票据收益权">PJSYQ</File>
+	<File Name="小额贷款">PettyLoan</File>
+	<File Name="PPP">PPP</File>
+	<File Name="CMBS">CMBS</File>
+	<File Name="委托贷款">LoanByMandate</File>
+	<File Name="BT项目回购">BTXMHG</File>
+	<File Name="两融债权">LRZQ</File>
+	<File Name="专项信贷">ZXXD</File>
+	<File Name="住房公积金">ZFGJJ</File>
+	<File Name="保单质押贷款">BDZYDK</File>
+	<File Name="其他">QT</File>
+	<File Name="设备按揭贷款">SBAJDK</File>
+	<File Name="金融租赁">JRZL</File>
+	<File Name="房地产投资信托基金">FDCTZXTJJ</File>
+	<File Name="重整资产">CZZC</File>
+</AssetType>
+</Root>

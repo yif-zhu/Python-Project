@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Actions>
+	<Action AcitonName="第一步校验" ActionCode="FirstCheck" Id="1">
+		<Variable IsParameter="False" ParameterName="pyPath" Value="FileFormatCheck_V2.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="XmlFile" Value="Resource/xml/FileFormatCheck_TrusteeNew_V4.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="inputFile" Value="//172.16.6.143/Products/受托报告/202008/ABS/新模板V4/个人汽车贷款/卢迪/周帅/华驭第九期汽车抵押贷款支持证券（第9期）" VariableName="sourcefolder" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+	</Action>
+	<Action AcitonName="第二步校验" ActionCode="SecondCheck" Id="2">
+		<Variable IsParameter="False" ParameterName="pyFile" Value="Liquidation_InsertAndCheck.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="XmlFile" Value="Resource/xml/ExtractAndInsert_Liquidation_V1.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="inputFile" Value="//172.16.7.114/已整理受托报告/9月开始新增受托报告/202008/ABS/清算报告V1/个人消费贷款/王刚依/康尤千/捷赢2019年第一期个人消费贷款资产支持证券" VariableName="sourcefolder" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+		<Variable IsParameter="True" ParameterName="AssetType" Value="ConsumerLoan" VariableName="AssetType" />
+	</Action>
+	<Action AcitonName="第三步校验" ActionCode="ThirdCheck" Id="3">
+		<Variable IsParameter="False" ParameterName="pyFile" Value="ThirdLogicalCheck.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="Resource/xml/ThirdLogicalCheck_Trustee.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="type" Value="3" VariableName="type" />
+		<Variable IsParameter="True" ParameterName="poolType" Value="1" VariableName="poolType" />
+		<Variable IsParameter="True" ParameterName="ImportTime" Value="2020/5/21 9:26" VariableName="ImportTime" />
+		<Variable IsParameter="True" ParameterName="AssetType" Value="CarLoan" VariableName="AssetType" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+		<Variable IsParameter="True" ParameterName="TrustId" Value="4517" VariableName="TrustId" />
+	</Action>
+	<Action AcitonName="数据对比" ActionCode="CompareCNABS" Id="4">
+		<Variable IsParameter="False" ParameterName="" Value="CompareCNABS.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="Resource/xml/CompareCNABS_Trustee.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="type" Value="3" VariableName="type" />
+		<Variable IsParameter="True" ParameterName="poolType" Value="1" VariableName="poolType" />
+		<Variable IsParameter="True" ParameterName="ImportTime" Value="2019/9/11 11:44" VariableName="ImportTime" />
+		<Variable IsParameter="True" ParameterName="AssetType" Value="CarLoan" VariableName="AssetType" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+		<Variable IsParameter="True" ParameterName="TrustId" Value="5077" VariableName="TrustId" />
+	</Action>
+	<Action AcitonName="内部逻辑校验" ActionCode="InternalLogicCheck" Id="5">
+		<Variable IsParameter="False" ParameterName="" Value="InternalLogicCheck.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="Resource/xml/InternalLogicCheck_Trustee.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="type" Value="3" VariableName="type" />
+		<Variable IsParameter="True" ParameterName="poolType" Value="1" VariableName="poolType" />
+		<Variable IsParameter="True" ParameterName="ImportTime" Value="2020/4/13 16:25" VariableName="ImportTime" />
+		<Variable IsParameter="True" ParameterName="AssetType" Value="CarLoan" VariableName="AssetType" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/1" VariableName="destfolder" />
+		<Variable IsParameter="True" ParameterName="TrustId" Value="10025" VariableName="TrustId" />
+	</Action>
+	<Action AcitonName="静态池PDF导入" ActionCode="PoolStaticDataInsert" Id="6">
+		<Variable IsParameter="False" ParameterName="" Value="PoolStaticDataInsert.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="Resource/xml/PoolStaticDataInsert_PDF.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="sql" Value="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,RemainPricipal,FullPrepayments,NormalAmount,Late1to30Amount,Late31to60Amount,Late61to90Amount,Late91to120Amount,LateBiger120Amount) Values " VariableName="sql" />
+		<Variable IsParameter="True" ParameterName="filePath" Value="C:/PyCharm/untitled1/Request/pdf_download/“飞驰建普”系列微小企业贷款支持证券注册申请报告.pdf" VariableName="filePath" />
+		<Variable IsParameter="True" ParameterName="beginPage" Value="73" VariableName="beginPage" />
+		<Variable IsParameter="True" ParameterName="endPage" Value="98" VariableName="endPage" />
+		<Variable IsParameter="True" ParameterName="columns" Value="贷款发放时间,报告月份月末,新增户数,月末未偿本金余额 （元）,月内全部早偿的金额（元）,正常贷款余额（元）,1-30天滞纳贷款总额(元）,31-60天滞纳贷款总额(元）,61-90天滞纳贷款总额(元）,91-120天滞纳贷款总额(元）,超过120天滞纳贷款总额(元）" VariableName="columns" />
+
+	</Action>
+</Actions>

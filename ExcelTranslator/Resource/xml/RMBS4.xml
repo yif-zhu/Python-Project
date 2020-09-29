@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mapping input="C:/PyCharm/pdf-docx/source/样例/00房贷样例/房贷4.xlsx" output="C:/PyCharm/pdf-docx/source/Example/房贷" template="Resource/templateFile\受托报告导入模板-新.xlsx">
+			 
+		<item desc="资产池整体表现情况" istable="true">
+            <source anchor="资产池整体表现情况" anchorend="" cols="A,B,C,D,E" range="7" skiprows="4"> </source>
+            <dest beginrow="24" cols="A,B,C,D,E" datatype="S,F,P,F,P" limited="6" />
+        </item>
+		<item desc="证券分层" istable="true">
+            <source anchor="各档证券本金" anchorend="次级" cols="A,D,E,F" range="" skiprows="2" transposition="false"> </source>
+            <dest beginrow="8" cols="B,C,D,F" datatype="S,F,F,F" limited="12" />
+        </item>
+		<item desc="证券分层" istable="true">
+            <source anchor="利息还款情况" anchorend="次级" cols="C" range="" skiprows="7" transposition="false"> </source>
+            <dest beginrow="8" cols="E" datatype="F" limited="12" />
+        </item>		
+		<item desc="资产池现金流归集表" istable="true">
+            <source anchor="现金流归集表" anchorend="" cols="A,B,C,D" range="" skiprows="2"> </source>
+            <dest beginrow="35" cols="A,B,C,D" datatype="D,F,F,F" limited="431" />
+        </item>	
+		<item desc="累计违约率" istable="true">
+            <source anchor="资产池累计违约情况:" anchorend="" cols="C" range="" skiprows="2"> </source>
+            <dest beginrow="24" cols="V" datatype="P" limited="421" />
+        </item>	
+		<item desc="笔數与金额特征" istable="true">
+            <source anchor="入池资产笔数与金额特征" anchorend="入池资产期限特征" cols="D" range="5" skiprows="1"> </source>
+            <dest beginrow="24" cols="R" datatype="F" limited="5" />
+        </item>	
+		<item desc="期限特征" istable="true">
+            <source anchor="入池资产的期限特征" anchorend="入池资产期限特征" cols="D" range="5" skiprows="1"> </source>
+            <dest beginrow="32" cols="R" datatype="F,F,F" limited="5" />
+        </item>	
+		 <item desc="利率特征" istable="true">
+            <source anchor="利率特征" anchorend="" cols="D" range="3" skiprows="1"> </source>
+            <dest beginrow="40" cols="R" datatype="P" limited="3" />
+        </item>
+		<item desc="资产池情况" istable="false">
+			<source anchor="收入分账户;合计" cols="E"> </source>
+			<dest cols="M33" datatype="F" />
+		</item>
+		<item desc="资产池情况" istable="false">
+			<source anchor="本金分账户;合计" cols="E"> </source>
+			<dest cols="M43" datatype="F" />
+		</item>
+		<item desc="资产池情况" istable="true">
+			<source anchor="税费支出" anchorend="" cols="E" range="3" skiprows="-1" />
+			<dest beginrow="45" cols="M" datatype="F" limited="3" />
+		</item>
+		<item desc="资产池情况 状态" istable="true">
+            <source anchor="收入分账户" anchorend="" cols="D,E" range="7" skiprows="-1"> </source>
+            <dest beginrow="24" cols="L,M" datatype="F,F" limited="6" />
+        </item>	
+		<item desc="资产池情况 状态" istable="true">
+            <source anchor="本金分账户" anchorend="" cols="D,E" range="7" skiprows="-1"> </source>
+            <dest beginrow="34" cols="L,M" datatype="F,F" limited="6" />
+        </item>	
+		<item desc="违约处置状态" istable="true">
+            <source anchor="违约贷款处置情况" anchorend="" cols="B,C,D,E" range="1" skiprows="9"> </source>
+            <dest beginrow="55" cols="J,K,L,M" datatype="F,P,F,P" limited="1" />
+        </item>	
+		<item desc="资产池情况" istable="false">
+			<source anchor="持续购买资产支出（注1)" cols="E"> </source>
+			<dest cols="M48" datatype="F" />
+		</item>
+		<item desc="资产池情况" istable="false">
+			<source anchor="转存下期本金还款" cols="B"> </source>
+			<dest cols="M49" datatype="F" />
+		</item>
+		<item desc="资产池情况" istable="false">
+			<source anchor="转存下期收入" cols="E"> </source>
+			<dest cols="M50" datatype="F" />
+		</item>
+   </mapping>

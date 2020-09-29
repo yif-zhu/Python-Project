@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mapping AssetType="CarLoan" destfolder="C:/PyCharm/pdf-docx/source/Example/1" sourcefolder="C:/PyCharm/pdf-docx/source/Example/清算报告/不良">
+    <item desc="资产池现金流流入情况">
+        <cols>
+            <D desc="本期回收金额" dtype="number" emptybreak="1" nagroup="1" />
+            <E desc="累计回收金额" dtype="number" nagroup="1" />
+            <F desc="预计回收金额" dtype="number" nagroup="1" />
+            <G desc="回收率" dtype="rate" nagroup="1" />
+        </cols>
+        <rows end="19" start="11" />
+    </item>
+	<item desc="信托财产收益情况B">
+        <cols>
+            <C desc="科目" dtype="string" emptybreak="1" nagroup="1" />
+            <D desc="金额" dtype="number" emptybreak="1" nagroup="1" />
+        </cols>
+        <rows end="36" start="28" />
+    </item>
+    <item desc="证券本金兑付情况（分档债券）">
+        <cols>
+			<B desc="TrustBondID" dtype="number" emptybreak="1" nagroup="1" />
+            <C desc="本金还款" dtype="string" emptybreak="1" nagroup="1" />
+            <D desc="利息还款" dtype="number" nagroup="1" />
+        </cols>
+        <rows end="54" start="42" />
+    </item>
+    <item desc="证券本金兑付情况（累计兑付）" type="SpecificCells">
+        <C66 desc="本金还款" dtype="number" />
+        <D66 desc="利息及收益还款" dtype="number" />
+        <E66 desc="本金、利息及收益合计" dtype="number" />
+        <F66 desc="次级档超额收益" dtype="number" />
+    </item>
+    <item desc="处置违约分布">
+        <cols>
+            <B desc="户数" dtype="int" nagroup="1" />
+            <C desc="占比" dtype="rate" nagroup="1" />
+            <D desc="期初本息金额" dtype="number" nagroup="1" />
+        </cols>
+        <rows end="72" start="71" />
+    </item>
+    <item desc="违约处置状态" type="SpecificCells">
+        <K10 desc="报告日期" dtype="date" />
+		<L10 desc="信托成立日" dtype="date" />
+        <K13 desc="信托清算日" dtype="date" />
+		<L13 desc="清仓回购日" dtype="date" />
+        <K17 desc="收款区间（开始）" dtype="date" />
+		<L17 desc="收款区间（结束）" dtype="date" />
+        <K21 desc="计息区间（开始）" dtype="date" />
+		<L21 desc="计息区间（结束不含）" dtype="date" />
+    </item>
+    <item desc="新增违约状态" type="SpecificCells">
+        <J25 desc="清算前账户余额" dtype="number" />
+        <J26 desc="清算日账户余额" dtype="number" />
+		<J27 desc="清算后账户余额" dtype="number" />
+        <J28 desc="清仓回购价款" dtype="number" />
+    </item>
+    <item desc="税费支出情况">
+        <cols>
+            <J desc="科目" emptybreak="1" nagroup="1" />
+            <K desc="金额" dtype="number" />
+        </cols>
+        <rows end="47" start="33" />
+    </item>
+    <item desc="资产池现金流流出情况" type="SpecificCells">
+		<K48 desc="证券本金总支出" dtype="number" />
+		<K49 desc="证券利息总支出" dtype="number" />
+		<K50 desc="次级档收益" dtype="number" />
+		<K51 desc="次级档固定资金成本" dtype="number" />
+		<K52 desc="次级档总收益" dtype="number" />
+		<K53 desc="特别信托收益" dtype="number" />
+    </item>
+    <item desc="其他事项">
+        <cols>
+            <I desc="事项" emptybreak="1" nagroup="1" />
+            <J desc="是否发生" nagroup="1" />
+            <K desc="情况说明" nagroup="1" />
+			<L desc="发生时间" dtype="date" nagroup="1" />
+        </cols>
+        <rows end="78" start="59" />
+    </item>
+	<item desc="清算日余额用途" type="SpecificCells">
+        <J83 desc="清算前账户余额" dtype="string" />
+    </item>
+</mapping>

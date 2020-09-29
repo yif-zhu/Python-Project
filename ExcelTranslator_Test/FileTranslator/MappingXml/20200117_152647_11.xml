@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<result inputFile="C:/PyCharm/pdf-docx/source/Example/2 丰耀2017年第二期个人汽车抵押贷款资产支持证券（共11期）\00受托报告数据提取;FengYao2017-2;报告期数;9.xlsx" inputSheetIndex="0" inputSheetName="Sheet1" multiply="false" outputFile="C:/PyCharm/pdf-docx/source/Example/2 丰耀2017年第二期个人汽车抵押贷款资产支持证券（共11期）\00受托报告数据提取;FengYao2017-2;报告期数;9.xlsx" outputSheetIndex="1" outputSheetName="格式检查">
+	<Mapping description="源文件，目标文件对应情况">
+	<map comment="[利息-其他收入] - 不能为空" destCell="A3" destcolor="255,230,153" sourcecell="M41" sourcecolor="255,230,153" />
+</Mapping>
+</result>

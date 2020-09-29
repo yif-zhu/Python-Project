@@ -1,0 +1,3 @@
+[11:20:40]:  
+【//172.16.7.114/已整理受托报告/受托报告-总/住房贷款-总/31组建元2018年第十五期个人住房抵押贷款资产支持证券（9期）\00受托报告数据提取;JianYuan2018-15;报告期数;4.xlsx】
+[11:20:40]:  ('01000', '[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionWrite (send()). (10054) (SQLExecDirectW); [01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]一般性网络错误。请检查网络文档。 (11)')

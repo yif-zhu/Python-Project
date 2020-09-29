@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Actions>
+	<Action AcitonName="内容填充" ActionCode="FillData" Id="1">
+		<Variable IsParameter="False" ParameterName="" Value="template.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="XmlFile" Value="Resource/xml/POC.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="inputFile" Value="C:/PyCharm/pdf-docx/source/Example/POC/1、悦微2018年第二十三期财产权信托_受托机构报告第一期.xlsx" VariableName="input" />
+		<Variable IsParameter="True" ParameterName="outputFile" Value="C:/PyCharm/pdf-docx/source/Example/POC_Export" VariableName="output" />
+		<Variable IsParameter="True" ParameterName="templateFile" Value="Resource/templateFile/POCV4.xlsx" VariableName="template" />
+	</Action>
+	<Action AcitonName="基础资产校验_V1" ActionCode="ValueCheck1" Id="2">
+		<Variable IsParameter="False" ParameterName="" Value="FileFormatCheck.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="FileTranslator/FileFormatCheck_Trustee.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="sourcefolder" Value="C:/PyCharm/pdf-docx/source/Example/bug" VariableName="sourcefolder" />
+	</Action>
+	<Action AcitonName="基础资产校验_V2" ActionCode="ValueCheck2" Id="3">
+		<Variable IsParameter="False" ParameterName="" Value="FileFormatCheck_V2.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="FileTranslator/FileFormatCheck_TrusteeNew.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="sourcefolder" Value="C:/PyCharm/pdf-docx/source/Example/新模板数据" VariableName="sourcefolder" />
+	</Action>
+	<Action AcitonName="不良资产校验" ActionCode="NonValueCheck" Id="4">
+		<Variable IsParameter="False" ParameterName="" Value="NonFileFormatCheck.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="FileTranslator/NonFileFormatCheck_Trustee.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="sourcefolder" Value="C:/PyCharm/pdf-docx/source/Example/3组和萃2017年第二期不良资产证券化信托受托机构报告（2期）" VariableName="sourcefolder" />
+	</Action>
+	<Action AcitonName="池分布校验" ActionCode="PoolValueCheck" Id="5">
+		<Variable IsParameter="False" ParameterName="" Value="PoolFormatCheck.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="FileTranslator/PoolFileFormatCheck_Trustee.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="sourcefolder" Value="//172.16.7.114/已整理受托报告/32-42组整理情况/池分布/池分布" VariableName="sourcefolder" />
+	</Action>
+</Actions>

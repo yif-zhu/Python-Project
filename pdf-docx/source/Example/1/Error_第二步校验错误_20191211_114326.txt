@@ -1,0 +1,3 @@
+[11:43:32]:  
+【C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1.xlsx】
+[11:43:32]:  ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Matter'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'IsHappen'. (207)")

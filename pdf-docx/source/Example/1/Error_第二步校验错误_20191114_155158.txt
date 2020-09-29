@@ -1,0 +1,6 @@
+[15:52:30]:  
+【//172.16.7.114/已整理受托报告/实习生-北京/2019年9月份开始新增的产品/1105新增任务（受托报告）/正常资产/车贷\21组 唯盈2018年第一期个人汽车抵押贷款资产支持证券受托机构报告第19期\00受托报告数据提取;WeiYing2018-1;报告期数;19.xlsx】
+[15:52:30]:  【数据准确性校验未通过】错误信息见文件[正确性验证]sheet
+[15:53:40]:  
+【//172.16.7.114/已整理受托报告/实习生-北京/2019年9月份开始新增的产品/1105新增任务（受托报告）/正常资产/车贷\9组 和信2019年第一期汽车分期贷款资产证券(第7期）\00受托报告数据提取;HeXin2019-1;报告期数;7.xlsx】
+[15:53:40]:  ('23000', "[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK_FactBondPayment'. Cannot insert duplicate key in object 'DVImport.FactBondPayment'. The duplicate key value is (6996, 7, 0). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)")

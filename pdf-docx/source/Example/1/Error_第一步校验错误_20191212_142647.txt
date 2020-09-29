@@ -1,0 +1,24 @@
+[14:26:47]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1.xlsx
+[14:26:47]:  【文件名错误】文件名称命名不规范
+[14:26:48]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;季.xlsx
+[14:26:48]:  【有格式错误】详情见文档[格式检查]sheet
+[14:26:48]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;年.xlsx
+[14:26:48]:  【有格式错误】详情见文档[格式检查]sheet
+[14:26:48]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;1;报告类型;月.xlsx
+[14:26:48]:  【有格式错误】详情见文档[格式检查]sheet
+[14:26:48]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;2.xlsx
+[14:26:48]:  【文件名错误】文件名称命名不规范
+[14:26:49]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;2;报告类型;季.xlsx
+[14:26:49]:  【有格式错误】详情见文档[格式检查]sheet
+[14:26:49]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;2;报告类型;年.xlsx
+[14:26:49]:  【有格式错误】详情见文档[格式检查]sheet
+[14:26:49]:  
+C:/PyCharm/pdf-docx/source/Example/V4\00受托报告数据提取;HuaBei2018-55;报告期数;2;报告类型;月.xlsx
+[14:26:49]:  【有格式错误】详情见文档[格式检查]sheet

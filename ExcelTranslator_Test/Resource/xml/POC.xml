@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mapping input="C:/PyCharm/pdf-docx/source/Example/POC/1、悦微2018年第二十三期财产权信托_受托机构报告第一期.xlsx" output="C:/PyCharm/pdf-docx/source/Example/POC_Export" template="Resource/templateFile/POCV4.xlsx">
+			 
+		<item desc="资产池整体表现情况" istable="true">
+            <source anchor="资产池整体表现情况" anchorend="" cols="A,B,C,D,E" range="6" skiprows="2"> </source>
+            <dest beginrow="24" cols="A,B,C,D,E" datatype="S,F,P,F,P" limited="6" />
+        </item>
+		<item desc="证券分层" istable="true">
+            <source anchor="各档信托单位余额及还款比例情况" anchorend="次级" cols="A,D,F,H" range="" skiprows="1" transposition="FALSE"> </source>
+            <dest beginrow="8" cols="B,C,D,F" datatype="S,S,F,F,F" limited="8" />
+        </item>
+		<item desc="证券分层" istable="true">
+            <source anchor="各档信托单位本金、预期收益还款情况" anchorend="" cols="J" range="5" skiprows="1"> </source>
+            <dest beginrow="8" cols="E" datatype="F" limited="8" />
+        </item>		
+		<item desc="资产池现金流归集表" istable="true">
+            <source anchor="资产池现金流归集表" anchorend="" cols="A,B,C,D" range="" skiprows="1"> </source>
+            <dest beginrow="36" cols="A,B,C,D" datatype="D,F,F,F" limited="431" />
+        </item>	
+		<item desc="累计违约率" istable="true">
+            <source anchor="累计违约率" anchorend="" cols="C" range="" skiprows="1"> </source>
+            <dest beginrow="24" cols="V" datatype="P" limited="421" />
+        </item>	
+		<item desc="笔數与金额特征" istable="true">
+            <source anchor="入池资产笔数与金额特征" anchorend="入池资产期限特征" cols="D" range="5" skiprows="1"> </source>
+            <dest beginrow="24" cols="R" datatype="F" limited="5" />
+        </item>	
+		<item desc="期限特征" istable="true">
+            <source anchor="入池资产期限特征" anchorend="入池资产期限特征" cols="D" range="5" skiprows="1"> </source>
+            <dest beginrow="32" cols="R" datatype="F,F,F" limited="5" />
+        </item>	
+		 <item desc="利率特征" istable="true">
+            <source anchor="入池资产利率特征" anchorend="" cols="D" range="3" skiprows="1"> </source>
+            <dest beginrow="41" cols="R" datatype="P" limited="3" />
+        </item>
+		<item desc="资产池情况" istable="false">
+			<source anchor="收入账;合计" cols="E"> </source>
+			<dest cols="M33" datatype="F" />
+		</item>
+		<item desc="资产池情况" istable="false">
+			<source anchor="本金账;合计" cols="E"> </source>
+			<dest cols="M43" datatype="F" />
+		</item>
+		<item desc="资产池情况" istable="true">
+			<source anchor="税费支出" anchorend="" cols="E" range="3" skiprows="-1" />
+			<dest beginrow="45" cols="M" datatype="F" limited="3" />
+		</item>
+		<item desc="资产池情况 状态" istable="true">
+            <source anchor="(六）资产池现金流入情况" anchorend="" cols="D,E" range="7" skiprows="1"> </source>
+            <dest beginrow="24" cols="L,M" datatype="F,F" limited="6" />
+        </item>	
+		<item desc="资产池情况 状态" istable="true">
+            <source anchor="本金账" anchorend="" cols="D,E" range="7" skiprows="-1"> </source>
+            <dest beginrow="34" cols="L,M" datatype="F,F" limited="6" />
+        </item>	
+		<item desc="违约处置状态" istable="true">
+            <source anchor="违约贷款处置情况" anchorend="" cols="B,C,D,E" range="1" skiprows="8"> </source>
+            <dest beginrow="55" cols="J,K,L,M" datatype="F,P,F,P" limited="1" />
+        </item>	
+		<item desc="资产池情况" istable="false">
+			<source anchor="持续购买资产支出（注1)" cols="E"> </source>
+			<dest cols="M48" datatype="F" />
+		</item>
+		<item desc="资产池情况" istable="false">
+			<source anchor="转存下期本金还款" cols="B"> </source>
+			<dest cols="M49" datatype="F" />
+		</item>
+		<item desc="资产池情况" istable="false">
+			<source anchor="转存下期收入" cols="E"> </source>
+			<dest cols="M50" datatype="F" />
+		</item>
+		<item desc="收款期间开始" istable="false">
+			<source anchor="信托日期概况" cols="B"> </source>
+			<dest cols="J81" datatype="F" />
+		</item>
+		<item desc="收款期间结束" istable="false">
+			<source anchor="信托日期概况" cols="B"> </source>
+			<dest cols="K81" datatype="F" />
+		</item>
+		<item desc="五级分类模板2" istable="true">
+            <source anchor="按五级分类" anchorend="" cols="C,D,E,F,G,H" range="6" skiprows="1"> </source>
+            <dest beginrow="106" cols="J,K,L,M,N,O" datatype="F,P,F,P,F,P" limited="6" />
+        </item>	
+		<item desc="五级分类模板1" istable="true">
+            <source anchor="违约贷款处置情况" anchorend="" cols="B,C,D,E" range="1" skiprows="8"> </source>
+            <dest beginrow="55" cols="J,K,L,M" datatype="F,P,F,P" limited="1" />
+        </item>	
+		<item desc="其他事项" istable="true">
+            <source anchor="其他事项" anchorend="" cols="A,B,C" range="15" skiprows="1"> </source>
+            <dest beginrow="117" cols="H,I,J" datatype="S,S,S" limited="15" />
+        </item>	
+   </mapping>

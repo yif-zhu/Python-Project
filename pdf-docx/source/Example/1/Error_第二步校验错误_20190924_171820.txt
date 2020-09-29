@@ -1,0 +1,4 @@
+[17:18:20]:  'NoneType' object has no attribute 'TrustId'
+[17:18:20]:  
+【C:/PyCharm/pdf-docx/source/Example/新模板V2\00受托报告数据提取;HeZhi2019-1;报告期数;5.xlsx】
+[17:18:20]:  【错误】系统中未能定位到产品，文件名称中TrustCode或报告期数设置有误

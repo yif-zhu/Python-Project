@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--列的字段类型选项：
+    int: 只能是整型数字
+    number: 可以包含小数点和“,”
+    date: 支持格式如：“2010年1月1日”，“2010年1月”，“2010-1-1”,"1/1/2010",“2010-1”, "2010/1"
+    rate: 数字，支持带百分号
+    string: 任意字符，但不能包含半角字符单引号 “'”
+
+    单元格属性说明：
+    nagroup: 数据区域中第一行的nagroup所包含的列全部为NA时，指定该部分数据在报告中无数据
+    emptybreak: 该列为空时，不再在当前区域中往下读取——程序中优先级在nagroup条件之后
+-->
+<mapping sourceFilePath= "C:\Users\DELL\Documents\WXWork\1688850506359313\Cache\File\2019-09\Error_对比结果错误信息_20190929_193532.xlsx"
+         dbconnstr="DRIVER={SQL Server};SERVER=172.16.6.143\MSSQL;DATABASE=PortfolioManagement;UID=sa;PWD=PasswordGS2017">
+    <item desc="XXXXX对比结果备注信息" stat="insert into DVImport.XXXXXResultVerificationModeLog values">
+        <cols>
+            <C desc="TrustName" nagroup="1" emptybreak="1"></C>
+            <D desc="TrustId" dtype="number" nagroup="1" emptybreak="1"></D>
+            <E desc="PaymentPeriod" dtype="number" nagroup="1"></E>
+            <A desc="Operator" nagroup="1"></A>
+            <F desc="ErrorType" nagroup="1"></F>
+            <G desc="ErrorMsg" nagroup="1"></G>
+            <H desc="Remakes" nagroup="1"></H>
+            <B desc="负责人" nagroup="1"></B>
+
+        </cols>
+        <rows start="2" end="20" useacturalend="1"></rows>
+    </item>
+</mapping>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapping destfolder="C:\PyCharm\untitled1\111" template="C:\PyCharm\untitled1\111\贷款服务报告导入模板(非持续购买).xlsx" writelog="0">
+
+
+	<item desc="入池资产笔数与金额特征"> 
+        <source index="-1" anchor="资产池信息汇总一：入池资产笔数与金额特征" skiprows="1" anchorend="单笔贷款平均本金余额" cols="0,1,2,3"></source>
+        <dest sheet="资产统计信息" limited="10" beginrow="46" cols="B,C,D,E"></dest>
+    </item>
+
+	<item desc="入池资产期限特征">
+        <source  index="-1" anchor="资产池信息汇总二：入池资产期限特征" skiprows="1" anchorend="贷款最短到期期限" cols="0,1,2,3"></source>
+        <dest sheet="资产统计信息" limited="10" beginrow="60" cols="B,C,D,E"></dest>
+    </item>
+	
+    <item desc="入池资产利率特征">
+        <source index="-1" anchor="资产池信息汇总三：入池资产利率特征" skiprows="1" anchorend="最低住房贷款利率" cols="0,1,2,3"></source>
+        <dest sheet="资产统计信息" limited="10" beginrow="74" cols="B,C,D,E"></dest>
+    </item>
+	
+
+	<item desc="资产池现金流归集">
+        <source  index="-1" anchor="8、现金流归集表" skiprows="2" anchorend="" cols="0,1,2,3,4"
+		dateFormat = "true" dateCol="0" day =" ">
+		</source>
+        <dest sheet="资产池现金流归集表" limited="0" beginrow="3" cols="A,B,C,D,E"></dest>
+    </item>
+
+</mapping>
