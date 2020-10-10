@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ab66d16-52bf-4edd-a69a-5a205fe75838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert_Excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resource/xml/PoolStaticDataInsert_Excel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/PoolStaticDataInsert_Excel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/FileTranslator/PoolStaticDataInsert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/FileTranslator/PoolStaticDataInsert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/ShowDIalog.py" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/ShowDIalog.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/Actions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Actions.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Config/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resource/xml/PoolStaticDataInsert_PDF.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Resource/xml/PoolStaticDataInsert_PDF.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShowDIalog.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDIalog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MainWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MainWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TabWidget.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TabWidget.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/test.py" afterDir="false" />
     </list>
@@ -40,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/TabWidget.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="252">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#28#37#0" expanded="true" />
               </folding>
@@ -49,34 +47,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShowDIalog.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Source/MainWindow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source/PoolStaticDataInsert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="266">
+              <caret line="185" column="25" lean-forward="true" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
               <folding>
-                <element signature="e#195#224#0" expanded="true" />
+                <element signature="e#0#42#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert_Excel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="135" column="43" lean-forward="true" selection-start-line="135" selection-start-column="43" selection-end-line="135" selection-end-column="43" />
+            <state relative-caret-position="214">
+              <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
               <folding>
                 <element signature="e#24#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Action/Action.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,9 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Source/CompareCNABS.py" />
-        <option value="$PROJECT_DIR$/Config/settingCompare.ini" />
-        <option value="$PROJECT_DIR$/FileTranslator/CompareCNABS.py" />
         <option value="$PROJECT_DIR$/FileTranslator/NonExtractAndInsert.py" />
         <option value="$PROJECT_DIR$/Source/SettingManager.py" />
         <option value="$PROJECT_DIR$/Resource/xml/ExtractAndInsert_TrusteeNew_V2.xml" />
@@ -156,16 +154,19 @@
         <option value="$PROJECT_DIR$/FileTranslator/ThirdLogicalCheck.py" />
         <option value="$PROJECT_DIR$/FileTranslator/ThirdLogicalCheck_Liquidation.py" />
         <option value="$PROJECT_DIR$/FileTranslator/ExtractAndInsert_V2.py" />
-        <option value="$PROJECT_DIR$/Source/MainWindow.py" />
         <option value="$PROJECT_DIR$/Config/config.xml" />
         <option value="$PROJECT_DIR$/Resource/xml/ThirdLogicalCheck_Trustee.xml" />
         <option value="$PROJECT_DIR$/Resource/xml/PoolStaticDataInsert_PDF.xml" />
-        <option value="$PROJECT_DIR$/Config/Actions.xml" />
         <option value="$PROJECT_DIR$/Source/SettingManager.qss" />
         <option value="$PROJECT_DIR$/Source/PoolStaticDataInsert.py" />
         <option value="$PROJECT_DIR$/ShowDIalog.py" />
-        <option value="$PROJECT_DIR$/Source/TabWidget.py" />
         <option value="$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert.py" />
+        <option value="$PROJECT_DIR$/Source/TabWidget.py" />
+        <option value="$PROJECT_DIR$/Source/PoolStaticDataInsert_Excel.py" />
+        <option value="$PROJECT_DIR$/Config/Actions.xml" />
+        <option value="$PROJECT_DIR$/Resource/xml/PoolStaticDataInsert_Excel.xml" />
+        <option value="$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert_Excel.py" />
+        <option value="$PROJECT_DIR$/Source/MainWindow.py" />
       </list>
     </option>
   </component>
@@ -191,17 +192,12 @@
             <path>
               <item name="InsertAndCheckData" type="b2602c69:ProjectViewProjectNode" />
               <item name="InsertAndCheckData" type="462c0819:PsiDirectoryNode" />
-              <item name="Action" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InsertAndCheckData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InsertAndCheckData" type="462c0819:PsiDirectoryNode" />
               <item name="FileTranslator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InsertAndCheckData" type="b2602c69:ProjectViewProjectNode" />
               <item name="InsertAndCheckData" type="462c0819:PsiDirectoryNode" />
-              <item name="Source" type="462c0819:PsiDirectoryNode" />
+              <item name="Resource" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InsertAndCheckData" type="b2602c69:ProjectViewProjectNode" />
@@ -217,7 +213,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/FileTranslator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -231,8 +227,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\PyCharm\InsertAndCheckData\Resource\xml" />
-      <recent name="C:\PyCharm\InsertAndCheckData\FileTranslator" />
       <recent name="C:\PyCharm\InsertAndCheckData\Source" />
+      <recent name="C:\PyCharm\InsertAndCheckData\FileTranslator" />
       <recent name="C:\PyCharm\InsertAndCheckData\Config" />
       <recent name="C:\PyCharm\InsertAndCheckData" />
     </key>
@@ -411,12 +407,20 @@
       <workItem from="1601172396313" duration="62130000" />
       <workItem from="1602213263902" duration="2449000" />
       <workItem from="1602232492567" duration="2421000" />
-      <workItem from="1602235206617" duration="2216000" />
+      <workItem from="1602235206617" duration="19858000" />
     </task>
+    <task id="LOCAL-00001" summary="静态池PDF模式读取更新">
+      <created>1602295142754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602295142754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="339024000" />
+    <option name="totallyTimeSpent" value="356666000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,15 +433,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24128686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3181818" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" weight="0.43548387" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" visible="true" weight="0.40175954" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
@@ -457,14 +460,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="静态池PDF模式读取更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="静态池PDF模式读取更新" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FileTranslator/ExtractAndInsert.py</url>
-          <line>223</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FileTranslator/FileFormatCheck_V2.py</url>
           <line>243</line>
@@ -474,6 +476,11 @@
           <url>file://$PROJECT_DIR$/FileTranslator/FileFormatCheck_V2.py</url>
           <line>229</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert_Excel.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -498,7 +505,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/InsertAndCheckData$ThirdLogicalCheck.coverage" NAME="ThirdLogicalCheck Coverage Results" MODIFIED="1567993793371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileTranslator" />
     <SUITE FILE_PATH="coverage/InsertAndCheckData$CompareCNABS.coverage" NAME="CompareCNABS Coverage Results" MODIFIED="1568103368991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileTranslator" />
-    <SUITE FILE_PATH="coverage/InsertAndCheckData$ShowDIalog.coverage" NAME="ShowDIalog Coverage Results" MODIFIED="1602235436952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/InsertAndCheckData$ShowDIalog.coverage" NAME="ShowDIalog Coverage Results" MODIFIED="1602319496208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/InsertAndCheckData$chooseFile.coverage" NAME="chooseFile Coverage Results" MODIFIED="1567650567113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
   </component>
   <component name="debuggerHistoryManager">
@@ -511,6 +518,41 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>pd.to_datetime(value)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.search(model3, str(value))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.search(model3, value)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.search(model1, value)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cvalue</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sheet[ctag].value</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;{0}{1}&quot;.format(statement, tmpl.rstrip(','))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>float(getNumber(Row[3], 'Float'))*10000</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -520,72 +562,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>getNumber(Row[3], 'Float')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getNumber(Row[3], 'Int')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getNumber(Row[2], 'Int')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getNumber(Row[2], 'Float')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getNumber(Row[2], 'Float')*10000</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>str(getNumber(Row[2], 'Float')*money)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>str(getNumber(Row[i], 'Float')*money)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/zipfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="1215" selection-start-line="1215" selection-end-line="1215" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pandas/core/indexing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="1463" selection-start-line="1463" selection-end-line="1463" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FileTranslator/NonFileFormatCheck_V2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="299" column="17" lean-forward="true" selection-start-line="299" selection-start-column="17" selection-end-line="299" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/CompareCNABS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FileTranslator/FileFormatCheck_Trustee.xml" />
     <entry file="file://$PROJECT_DIR$/Source/InternalLogicCheck.qss">
       <provider selected="true" editor-type-id="text-editor">
@@ -724,37 +703,10 @@
         <state relative-caret-position="-4093" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileTranslator/ExtractAndInsert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="33" selection-start-line="33" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <element signature="e#24#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/FirstFileCheck.qss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" selection-start-line="8" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/SettingManager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="184" column="58" lean-forward="true" selection-start-line="184" selection-start-column="58" selection-end-line="184" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/FirstFileCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="198" column="48" selection-start-line="198" selection-start-column="44" selection-end-line="198" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,13 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resource/xml/ExtractAndInsert_TrusteeNew_V4.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="116" column="10" lean-forward="true" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/AssetTypeManager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -818,45 +763,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Action/Task/20200928_185223.py" />
-    <entry file="file://$PROJECT_DIR$/Source/MainWindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="319" column="38" selection-start-line="319" selection-start-column="38" selection-end-line="319" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Config/Actions.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="50" column="66" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Action/Action.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/ThirdFileCheck.qss">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/ThirdFileCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="81" column="55" lean-forward="true" selection-start-line="81" selection-start-column="55" selection-end-line="81" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FileTranslator/ThirdLogicalCheck_Liquidation.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -888,16 +796,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source/TabWidget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="e#28#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ShowDIalog.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -905,22 +803,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2071">
+          <caret line="109" column="45" lean-forward="true" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/SettingManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="168" column="51" selection-start-line="168" selection-start-column="36" selection-end-line="168" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-313451744/PyQt5/QtWidgets/QAbstractButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="146" column="20" lean-forward="true" selection-start-line="146" selection-start-column="20" selection-end-line="146" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Source/PoolStaticDataInsert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="247">
+          <caret line="241" column="37" lean-forward="true" selection-start-line="241" selection-start-column="8" selection-end-line="241" selection-end-column="37" />
           <folding>
             <element signature="e#195#224#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert.py">
+    <entry file="file://$PROJECT_DIR$/Resource/xml/ExtractAndInsert_TrusteeNew_V4.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="135" column="43" lean-forward="true" selection-start-line="135" selection-start-column="43" selection-end-line="135" selection-end-column="43" />
+        <state relative-caret-position="228">
+          <caret line="81" column="11" lean-forward="true" selection-start-line="78" selection-start-column="4" selection-end-line="81" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTranslator/ExtractAndInsert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="165" column="43" selection-start-line="165" selection-start-column="35" selection-end-line="165" selection-end-column="43" />
           <folding>
             <element signature="e#24#34#0" expanded="true" />
+            <element signature="e#3086#3689#0" />
+            <element signature="e#6340#6547#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/ThirdFileCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="243" column="16" selection-start-line="243" selection-start-column="12" selection-end-line="243" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/FirstFileCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="187" column="57" lean-forward="true" selection-start-line="187" selection-start-column="57" selection-end-line="187" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/TabWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#28#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/Actions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="66" column="158" selection-start-line="66" selection-start-column="158" selection-end-line="66" selection-end-column="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/PoolStaticDataInsert_Excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="130" column="28" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/xml/PoolStaticDataInsert_Excel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Action/Action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert_Excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/MainWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="185" column="25" lean-forward="true" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>

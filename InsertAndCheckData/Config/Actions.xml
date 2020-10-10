@@ -57,6 +57,13 @@
 		<Variable IsParameter="True" ParameterName="beginPage" Value="116" VariableName="beginPage" />
 		<Variable IsParameter="True" ParameterName="endPage" Value="117" VariableName="endPage" />
 		<Variable IsParameter="True" ParameterName="columns" Value="贷款发放时间,报告月份月末,新增户数,新增贷款(元）" VariableName="columns" />
-
+	</Action>
+	<Action AcitonName="静态池Excel导入" ActionCode="PoolStaticDataInsert_Excel" Id="7">
+		<Variable IsParameter="False" ParameterName="" Value="PoolStaticDataInsert_Excel.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="Resource/xml/PoolStaticDataInsert_Excel.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="audioType" Value="2" VariableName="audioType" />
+		<Variable IsParameter="True" ParameterName="DirPath" Value="" VariableName="DirPath" />
+		<Variable IsParameter="True" ParameterName="filePath" Value="C:/PyCharm/untitled1/Request/pdf_download/Excel/静态池数据收集模板(1).xlsx" VariableName="filePath" />
 	</Action>
 </Actions>
