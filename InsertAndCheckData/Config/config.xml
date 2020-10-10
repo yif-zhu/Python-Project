@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Root>
 	<PoolStaticInsertSql>
-	<Sql Text="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,RemainPricipal,PartialPrepayments,FullPrepayments,NormalAmount,Late1to30Amount,Late31to60Amount,Late61to90Amount,Late91to120Amount,LateBiger120Amount) Values " />
+	<Sql Text="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,NewAmount) Values " />
 </PoolStaticInsertSql>
 <OutputFolder>
 	<Folder>C:/PyCharm/pdf-docx/source/Example/1</Folder></OutputFolder>

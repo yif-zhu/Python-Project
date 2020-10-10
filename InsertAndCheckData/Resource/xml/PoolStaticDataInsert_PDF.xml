@@ -1,3 +1,3 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mapping ExcelColumns="静态池,报告期末,拖欠 1-30 天&#10;金额" beginPage="118" columns="贷款发放时间,报告月份月末,新增户数,月末未偿本金余额 （元）,月内部分早偿的金额（元）,月内全部早偿的金额（元）,正常贷款余额（元）,1-30天滞纳贷款总额(元）,31-60天滞纳贷款总额(元）,61-90天滞纳贷款总额(元）,91-120天滞纳贷款总额(元）,超过120天滞纳贷款总额(元）" endPage="248" filePath="C:/PyCharm/untitled1/Request/pdf_download/“建元”系列个人住房抵押贷款资产支持证券注册申请报告.pdf" sql="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,RemainPricipal,PartialPrepayments,FullPrepayments,NormalAmount,Late1to30Amount,Late31to60Amount,Late61to90Amount,Late91to120Amount,LateBiger120Amount) Values ">
+<mapping ExcelColumns="静态池,报告期末,拖欠 1-30 天&#10;金额" beginPage="116" columns="贷款发放时间,报告月份月末,新增户数,新增贷款(元）" endPage="117" filePath="C:/PyCharm/untitled1/Request/pdf_download/关于未来两年“捷赢”系列个人消费贷款资产支持证券的注册申请报告.pdf" sql="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,NewAmount) Values ">
 </mapping>

@@ -68,7 +68,7 @@ def getNumber(Value,Type):
     if Type == 'Int':
         return int(cvalue)
     elif Type == 'Float':
-        return '%.2f' %float(cvalue)
+        return float(cvalue)
 
 def main(configFilePath, dateId):
     global logtxtFilePath
@@ -139,10 +139,11 @@ def main(configFilePath, dateId):
                     if Types[i] == 'Float':
                         execSql = execSql + str(getNumber(Row[i], 'Float')*money) + ','
                     if Types[i] == 'Int':
-                        execSql = execSql + str(getNumber(Row[i], 'Int')*money) + ','
+                        execSql = execSql + str(getNumber(Row[i], 'Int')) + ','
                 execSql = execSql.rstrip(',') + '),'
             execSql = execSql.rstrip(',')
             writeLog('当前页数据已上传，当前页数为：'+ str(pageNum))
+            print(execSql)
             execSQLCmd(execSql)
             # for pageNum in range(beginPage, endPage):     #考虑录入pdf字段时的方案
             #     execSql = sql

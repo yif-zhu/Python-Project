@@ -4,6 +4,9 @@ from Source import MainWindow
 import xml.etree.ElementTree as XETree
 from openpyxl import load_workbook
 from openpyxl.styles import PatternFill
+import calendar
+import pandas as pd
+import pdfplumber
 import pyodbc
 import datetime
 
