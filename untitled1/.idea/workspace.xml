@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42f90b27-42bf-4dc3-89a4-033fd4b130bf" name="Default Changelist" comment="" />
+    <list default="true" id="42f90b27-42bf-4dc3-89a4-033fd4b130bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../InsertAndCheckData/FileTranslator/PoolStaticDataInsert_Excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertAndCheckData/Resource/xml/PoolStaticDataInsert_Excel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertAndCheckData/Source/PoolStaticDataInsert_Excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertAndCheckData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertAndCheckData/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertAndCheckData/Config/Actions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertAndCheckData/Config/Actions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertAndCheckData/Source/MainWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertAndCheckData/Source/MainWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertAndCheckData/Source/TabWidget.py" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertAndCheckData/Source/TabWidget.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,25 +35,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PDF-To-Database/ReadPDF.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="85" column="50" lean-forward="true" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="50" />
+            <state relative-caret-position="1615">
+              <caret line="85" column="50" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="50" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
-                <element signature="e#156#438#0" />
-                <element signature="e#626#630#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+            <state relative-caret-position="494">
+              <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -53,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/click.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
+            <state relative-caret-position="1216">
               <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -94,6 +103,9 @@
     <dirStrings>
       <dir>C:\PyCharm\untitled1\AutoPython</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -147,17 +159,18 @@
         <option value="$PROJECT_DIR$/Request/RequestTest1.py" />
         <option value="$PROJECT_DIR$/click.py" />
         <option value="$PROJECT_DIR$/AutoPython/ExtractAndInsert.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/PDF-To-Database/ReadPDF.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="165" />
     <option name="y" value="95" />
     <option name="width" value="1725" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -178,8 +191,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InsertAndCheckData" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -212,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ReadPDF">
+  <component name="RunManager" selected="Python.test">
     <configuration name="ReadPDF" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,8 +369,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ReadPDF" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.ReadPDF" />
         <item itemvalue="Python.RequestTest1" />
         <item itemvalue="Python.click" />
         <item itemvalue="Python.Urllib1" />
@@ -475,11 +489,15 @@
       <workItem from="1600401171742" duration="1965000" />
       <workItem from="1600755368235" duration="6177000" />
       <workItem from="1600914533124" duration="44683000" />
+      <workItem from="1602231111807" duration="3049000" />
+      <workItem from="1602236220567" duration="1914000" />
+      <workItem from="1602312367679" duration="896000" />
+      <workItem from="1602319291070" duration="642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="730800000" />
+    <option name="totallyTimeSpent" value="737301000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,12 +512,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1997319" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18699732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.54624665" visible="true" weight="0.28843337" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54624665" weight="0.28739002" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49396783" weight="0.46998537" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -665,7 +683,7 @@
     <SUITE FILE_PATH="coverage/untitled1$matchXml.coverage" NAME="matchXml Coverage Results" MODIFIED="1563516617162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Action" />
     <SUITE FILE_PATH="coverage/untitled1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1596088987585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled1$20190716_145658.coverage" NAME="20190716_145658 Coverage Results" MODIFIED="1563262316398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Action/Task" />
-    <SUITE FILE_PATH="coverage/untitled1$test.coverage" NAME="test Coverage Results" MODIFIED="1601258748029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$test.coverage" NAME="test Coverage Results" MODIFIED="1602319327077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -1056,9 +1074,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Request/py.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Request/py.txt" />
     <entry file="file://$PROJECT_DIR$/Request/Urllib1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1124,9 +1140,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PDF-To-Database/ReadPDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="85" column="50" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/click.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
+        <state relative-caret-position="1216">
           <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -1136,22 +1162,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        <state relative-caret-position="494">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PDF-To-Database/ReadPDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="85" column="50" lean-forward="true" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-            <element signature="e#156#438#0" />
-            <element signature="e#626#630#0" />
           </folding>
         </state>
       </provider>

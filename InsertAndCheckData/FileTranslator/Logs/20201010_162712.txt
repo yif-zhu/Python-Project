@@ -1,0 +1,3 @@
+[16:27:26]:  文件：C:/PyCharm/untitled1/Request/pdf_download/Excel/静态池数据收集模板(1).xlsx，开始读取
+[16:28:56]:  ('42000', "[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'values'. (102) (SQLExecDirectW)")
+[16:28:56]:  文件：C:/PyCharm/untitled1/Request/pdf_download/Excel/静态池数据收集模板(1).xlsx，读取入库完成

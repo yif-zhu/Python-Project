@@ -9,6 +9,7 @@ from Source.ThirdFileCheck import *
 from Source.CompareCNABS import *
 from Source.InternalLogicCheck import *
 from Source.PoolStaticDataInsert import *
+from Source.PoolStaticDataInsert_Excel import *
 from Source.ActionManager import AcitonManager
 from Source.AssetTypeManager import AssetTypeManager
 from Source.SettingManager import *
@@ -116,6 +117,13 @@ class MainWindow(QMainWindow):
         self.PoolStatic.setStatusTip('静态池PDF导入')
         self.PoolStatic.clicked.connect(self.PoolStaticInsert)
 
+        # 静态池PDF数据导入
+        self.PoolStaticExcel = QtWidgets.QPushButton(QIcon("Resource/icon/Icon_multiRun.ico"), '静态池Excel导入')
+        self.PoolStaticExcel.setText("静态池Excel导入")
+        self.PoolStaticExcel.setShortcut('')
+        self.PoolStaticExcel.setStatusTip('静态池Excel导入')
+        self.PoolStaticExcel.clicked.connect(self.PoolStaticInsert_Excel)
+
         # 配置管理
         self.comboBox_setting = DropDownMenu()
         self.comboBox_setting.setObjectName("Setting")
@@ -140,6 +148,7 @@ class MainWindow(QMainWindow):
         tb1.addWidget(self.DataComPare)
         tb1.addWidget(self.LogicCheck)
         tb1.addWidget(self.PoolStatic)
+        tb1.addWidget(self.PoolStaticExcel)
         tb1.addWidget(self.comboBox_setting)
 
         # self.verticalSplitter.setStyleSheet("background-color: rgb(222, 222, 222);")
@@ -168,7 +177,7 @@ class MainWindow(QMainWindow):
         self.setObjectName("MainWindow")
         self.setGeometry(0, 0, 1400, 800)
         self.center(self)
-        self.setWindowTitle("入库工具2.2")
+        self.setWindowTitle("入库工具2.3")
         self.setWindowIcon(QIcon('Resource/icon/Icon_table.ico'))
         # self.center()
         self.show()
@@ -246,6 +255,15 @@ class MainWindow(QMainWindow):
 
         center(poolInset, 897, 800)
         poolInset.setFixedSize(897, 800)
+        poolInset.show()
+
+    def PoolStaticInsert_Excel(self):
+        poolInset = PoolStaticDataInsert_Excel(self)
+        poolInset.raise_()
+        poolInset.submitted.connect(self.newAction)
+
+        #center(poolInset, 897, 800)
+        poolInset.setFixedSize(500, 500)
         poolInset.show()
 
     def showManager(self, index: int):

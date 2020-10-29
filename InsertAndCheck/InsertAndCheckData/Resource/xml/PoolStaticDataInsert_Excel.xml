@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mapping DirPath="" ExcelColumns="静态池,报告期末,拖欠 1-30 天&#10;金额" audioType="2" beginPage="116" columns="贷款发放时间,报告月份月末,新增户数,新增贷款(元）" endPage="117" filePath="C:/PyCharm/untitled1/Request/pdf_download/Excel/静态池数据收集模板(1).xlsx" sql="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,NewAmount) Values ">
+    <item desc="静态池相关信息" type="SpecificCells">
+        <A8 desc="注册申请报告日期" dtype="date" />
+        <A11 desc="发起机构" dtype="string" />
+        <A14 desc="受托机构" dtype="string" />
+        <A17 desc="资产类型" dtype="string" />
+    </item>
+    <item desc="静态池数据" stat="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,RegistDate,Sponsor     ,Trustee,AssetType,LoanDate,ReportDate,NewAmount,NewCount,OpeningAmount,RemainPricipal,RemainCount,NormalAmount,Late1to30Amount     ,Late1to30Count,Late31to60Amount,Late31to60Count,Late61to90Amount,Late61to90Count,Late91to120Amount,Late91to120Count,LateBiger120Amount     ,LateBiger120Count,ScheduledPrincipal,RepayInterest,PartialPrepayments,FullPrepayments,LatePrincipalPayments,TotalPrincipal,WriteOffAmount) values ">
+        <cols>
+            <B desc="贷款发放时间" dtype="date" emptybreak="1" nagroup="1" />
+            <C desc="报告月份" dtype="date" nagroup="1" />
+            <D desc="新增贷款" dtype="float" nagroup="1" />
+            <E desc="新增户数" dtype="int" nagroup="1" />
+            <F desc="期初金额(元)" dtype="float" nagroup="1" />
+            <G desc="月末未偿本金余额" dtype="float" nagroup="1" />
+            <H desc="剩余户数" dtype="int" nagroup="1" />
+            <I desc="正常贷款余额" dtype="float" nagroup="1" />
+            <J desc="1-30天滞纳贷款总额" dtype="float" nagroup="1" />
+            <K desc="1-30天滞纳贷款笔数" dtype="int" nagroup="1" />
+            <L desc="31-60天滞纳贷款总额" dtype="float" nagroup="1" />
+            <M desc="31-60天滞纳贷款笔数" dtype="int" nagroup="1" />
+            <N desc="61-90天滞纳贷款总额" dtype="float" nagroup="1" />
+            <O desc="61-90天滞纳贷款笔数" dtype="int" nagroup="1" />
+            <P desc="91-120天滞纳贷款总额" dtype="float" nagroup="1" />
+            <Q desc="91-120天滞纳贷款笔数" dtype="int" nagroup="1" />
+            <R desc="超过120天滞纳贷款总额" dtype="float" nagroup="1" />
+            <S desc="超过120天滞纳贷款笔数" dtype="int" nagroup="1" />
+            <T desc="月内本金回收款（按合同规定）" dtype="float" nagroup="1" />
+            <U desc="还款利息(元)" dtype="float" nagroup="1" />
+            <V desc="月内部分早偿的金额" dtype="float" nagroup="1" />
+            <W desc="月内全部早偿的金额" dtype="float" nagroup="1" />
+            <X desc="滞纳本金偿还金额（不包括注销贷款偿还金额）" dtype="float" nagroup="1" />
+            <Y desc="当月回收款总额" dtype="float" nagroup="1" />
+            <Z desc="核销金额(元)" dtype="float" nagroup="1" />
+        </cols>
+        <rows end="100" start="5" useacturalend="1" />
+    </item>
+</mapping>

@@ -52,11 +52,18 @@
 		<Variable IsParameter="False" ParameterName="" Value="PoolStaticDataInsert.py" VariableName="PythonFile" />
 		<Variable IsParameter="False" ParameterName="" Value="Resource/xml/PoolStaticDataInsert_PDF.xml" VariableName="XmlFile" />
 		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
-		<Variable IsParameter="True" ParameterName="sql" Value="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,RemainPricipal,FullPrepayments,NormalAmount,Late1to30Amount,Late31to60Amount,Late61to90Amount,Late91to120Amount,LateBiger120Amount) Values " VariableName="sql" />
-		<Variable IsParameter="True" ParameterName="filePath" Value="C:/PyCharm/untitled1/Request/pdf_download/“飞驰建普”系列微小企业贷款支持证券注册申请报告.pdf" VariableName="filePath" />
-		<Variable IsParameter="True" ParameterName="beginPage" Value="73" VariableName="beginPage" />
-		<Variable IsParameter="True" ParameterName="endPage" Value="98" VariableName="endPage" />
-		<Variable IsParameter="True" ParameterName="columns" Value="贷款发放时间,报告月份月末,新增户数,月末未偿本金余额 （元）,月内全部早偿的金额（元）,正常贷款余额（元）,1-30天滞纳贷款总额(元）,31-60天滞纳贷款总额(元）,61-90天滞纳贷款总额(元）,91-120天滞纳贷款总额(元）,超过120天滞纳贷款总额(元）" VariableName="columns" />
-
+		<Variable IsParameter="True" ParameterName="sql" Value="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,NewAmount) Values " VariableName="sql" />
+		<Variable IsParameter="True" ParameterName="filePath" Value="C:/PyCharm/untitled1/Request/pdf_download/关于未来两年“捷赢”系列个人消费贷款资产支持证券的注册申请报告.pdf" VariableName="filePath" />
+		<Variable IsParameter="True" ParameterName="beginPage" Value="116" VariableName="beginPage" />
+		<Variable IsParameter="True" ParameterName="endPage" Value="117" VariableName="endPage" />
+		<Variable IsParameter="True" ParameterName="columns" Value="贷款发放时间,报告月份月末,新增户数,新增贷款(元）" VariableName="columns" />
+	</Action>
+	<Action AcitonName="静态池Excel导入" ActionCode="PoolStaticDataInsert_Excel" Id="7">
+		<Variable IsParameter="False" ParameterName="" Value="PoolStaticDataInsert_Excel.py" VariableName="PythonFile" />
+		<Variable IsParameter="False" ParameterName="" Value="Resource/xml/PoolStaticDataInsert_Excel.xml" VariableName="XmlFile" />
+		<Variable IsParameter="False" ParameterName="" Value="main" VariableName="MethodName" />
+		<Variable IsParameter="True" ParameterName="audioType" Value="2" VariableName="audioType" />
+		<Variable IsParameter="True" ParameterName="DirPath" Value="" VariableName="DirPath" />
+		<Variable IsParameter="True" ParameterName="filePath" Value="C:/PyCharm/untitled1/Request/pdf_download/Excel/静态池数据收集模板(1).xlsx" VariableName="filePath" />
 	</Action>
 </Actions>

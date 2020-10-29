@@ -1,0 +1,4 @@
+[16:41:13]:  当前页数据已上传，当前页数为：59
+[16:41:16]:  ('42000', "[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '.4465641'. (102) (SQLExecDirectW)")
+[16:41:18]:  当前页数据已上传，当前页数为：60
+[16:41:21]:  ('42000', "[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '.4465641'. (102) (SQLExecDirectW)")

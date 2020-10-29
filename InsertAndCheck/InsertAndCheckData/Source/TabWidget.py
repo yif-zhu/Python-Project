@@ -54,6 +54,8 @@ class Tab(QWidget):
             LogPath = os.path.join(os.getcwd(), "FileTranslator", 'Logs', '{0}.txt'.format(fileName))
         elif self.actionCode =='PoolStaticDataInsert':
             LogPath = os.path.join(os.getcwd(), "FileTranslator", 'Logs', '{0}.txt'.format(fileName))
+        elif self.actionCode =='PoolStaticDataInsert_Excel':
+            LogPath = os.path.join(os.getcwd(), "FileTranslator", 'Logs', '{0}.txt'.format(fileName))
         #LogPath = os.path.join(os.getcwd(), "FileTranslator", 'Logs', '{0}.txt'.format(fileName))
         # result = "FileTranslator/MappingXml/20190720_182549.xml"
         if os.path.exists(LogPath):

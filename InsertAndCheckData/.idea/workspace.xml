@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ab66d16-52bf-4edd-a69a-5a205fe75838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FileTranslator/PoolStaticDataInsert_Excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/xml/PoolStaticDataInsert_Excel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/PoolStaticDataInsert_Excel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/Config/Actions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/Config/Actions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/Source/MainWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/Source/MainWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/Source/TabWidget.py" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertAndCheck/InsertAndCheckData/Source/TabWidget.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Actions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Actions.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MainWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MainWindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TabWidget.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TabWidget.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/test.py" afterDir="false" />
     </list>
@@ -50,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Source/MainWindow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="185" column="25" lean-forward="true" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
+            <state relative-caret-position="247">
+              <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -170,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="165" />
     <option name="y" value="95" />
     <option name="width" value="1725" />
@@ -407,7 +404,7 @@
       <workItem from="1601172396313" duration="62130000" />
       <workItem from="1602213263902" duration="2449000" />
       <workItem from="1602232492567" duration="2421000" />
-      <workItem from="1602235206617" duration="19858000" />
+      <workItem from="1602235206617" duration="21370000" />
     </task>
     <task id="LOCAL-00001" summary="静态池PDF模式读取更新">
       <created>1602295142754</created>
@@ -416,11 +413,18 @@
       <option name="project" value="LOCAL" />
       <updated>1602295142754</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="静态池Excel模式读取更新">
+      <created>1602321293916</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602321293916</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="356666000" />
+    <option name="totallyTimeSpent" value="358178000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,15 +436,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24128686" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24128686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3181818" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" visible="true" weight="0.40175954" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" weight="0.40175954" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
@@ -462,7 +466,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="静态池PDF模式读取更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="静态池PDF模式读取更新" />
+    <MESSAGE value="静态池Excel模式读取更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="静态池Excel模式读取更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -929,8 +934,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/MainWindow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="185" column="25" lean-forward="true" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
+        <state relative-caret-position="247">
+          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
