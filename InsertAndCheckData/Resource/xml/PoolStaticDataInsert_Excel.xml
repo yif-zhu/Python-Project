@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mapping DirPath="" ExcelColumns="静态池,报告期末,拖欠 1-30 天&#10;金额" audioType="2" beginPage="116" columns="贷款发放时间,报告月份月末,新增户数,新增贷款(元）" endPage="117" filePath="C:/PyCharm/untitled1/Request/pdf_download/Excel/静态池数据收集模板(1).xlsx" sql="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,NewAmount) Values ">
+<mapping DirPath="" ExcelColumns="静态池,报告期末,拖欠 1-30 天&#10;金额" audioType="2" beginPage="116" columns="贷款发放时间,报告月份月末,新增户数,新增贷款(元）" endPage="117" filePath="C:/Users/yif_z/Downloads/一汽汽车金融有限公司和建信信托有限责任公司关于未来两年屹腾系列个人汽车贷款资产支持证券的注册申请报告.xlsx" sql="insert into PortfolioManagement.DvImport.StaticPoolData(FileNames,LoanDate,ReportDate,NewCount,NewAmount) Values ">
     <item desc="静态池相关信息" type="SpecificCells">
         <A8 desc="注册申请报告日期" dtype="date" />
         <A11 desc="发起机构" dtype="string" />

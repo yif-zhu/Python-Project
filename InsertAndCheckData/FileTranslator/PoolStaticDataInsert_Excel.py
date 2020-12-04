@@ -42,36 +42,41 @@ def deleteOldData(fileName):
     execSQLCmd(sql)
 
 def getNumber(value,Type):
-    if Type == 'string':
-        return value
-    elif Type == 'date':
-        model1 = r"(\d{4}年\d{1,2}月(\d{1,2}日)?)"
-        model2 = r"(\d{4}[-/]\d{1,2}[^a-z]([-/]\d{1,2}[^a-z])?)|((\d{1,2}[^a-z][-/])?\d{1,2}[^a-z][-/]\d{4})"
-        model3 = r"^(\d{5,6})$"
-        if re.search(model1, str(value)) is not None:
-            value = re.sub('\D$', '', value)
-            value = re.sub(r'\D', r'-', value)
-            value = pd.to_datetime(value)
-        elif re.search(model3, str(value)) is not None:
-            if re.search(model2, str(value)) is not None:
+    try:
+        if Type == 'string':
+            return value
+        elif Type == 'date':
+            model1 = r"(\d{4}年\d{1,2}月(\d{1,2}日)?)"
+            model2 = r"(\d{4}[-/]\d{1,2}[^a-z]([-/]\d{1,2}[^a-z])?)|((\d{1,2}[^a-z][-/])?\d{1,2}[^a-z][-/]\d{4})"
+            model3 = r"^(\d{5,6})$"
+            if re.search(model1, str(value)) is not None:
+                value = re.sub('\D$', '', value)
+                value = re.sub(r'\D', r'-', value)
                 value = pd.to_datetime(value)
+            elif re.search(model3, str(value)) is not None:
+                if re.search(model2, str(value)) is not None:
+                    value = pd.to_datetime(value)
+                else:
+                    value = pd.to_datetime(value, format=('%Y%m'))
+            elif value == '':
+                return ''
             else:
-                value = pd.to_datetime(value, format=('%Y%m'))
-        elif value == '':
-            return ''
-        else:
-            value = pd.to_datetime(value)
-        year, month = str(value).split('-')[0], str(value).split('-')[1]  # 获取月末日期
-        end = calendar.monthrange(int(year), int(month))[1]
-        value = pd.to_datetime('%s-%s-%s' % (year, month, end))
-        return value.strftime('%Y%m%d')
-    cvalue = str(value).replace(' ', '').replace(',', '').replace('.00', '').replace('\t', '').replace('，', '')
-    if cvalue == 'NA' or cvalue == '-' or cvalue == '':
-        return 0
-    if Type == 'int':
-        return int(cvalue)
-    elif Type == 'float':
-        return float(cvalue)
+                value = pd.to_datetime(value)
+            year, month = str(value).split('-')[0], str(value).split('-')[1]  # 获取月末日期
+            end = calendar.monthrange(int(year), int(month))[1]
+            value = pd.to_datetime('%s-%s-%s' % (year, month, end))
+            return value.strftime('%Y%m%d')
+        cvalue = str(value).replace(' ', '').replace(',', '').replace('.00', '').replace('\t', '').replace('，', '')
+        if cvalue == 'NA' or cvalue == '-' or cvalue == '':
+            return 0
+        if Type == 'int':
+            return int(cvalue)
+        elif Type == 'float':
+            return float(cvalue)
+    except Exception as ex:
+        writeLog(str(ex))
+        print(str(ex))
+
 def concatSql(filePath, cfgRoot):
     writeLog('文件：{0}，开始读取'.format(filePath))
     fileName = os.path.basename(filePath)
