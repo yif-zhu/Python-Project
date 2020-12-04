@@ -14,6 +14,7 @@ import pandas as pd
 logtxtFilePath = None
 errtxtFilePath = None
 dbConnectionStr = None
+AssetTypeDf = None
 
 ##### Helper Methods #####
 def writeLog(msg):
@@ -37,6 +38,19 @@ def execSQLCmd(sql):
         # raise ex
     finally:
         cnxn.close()
+
+def execSQLCmdFetchAll(sql):
+    cnxn = pyodbc.connect(dbConnectionStr)
+    try:
+        cursor = cnxn.cursor()
+        rows = cursor.execute(sql).fetchall()
+        return rows
+    except Exception as ex:
+        writeLog(str(ex))
+        raise ex
+    finally:
+        cnxn.close()
+
 def deleteOldData(fileName):
     sql = "delete from  PortfolioManagement.DvImport.StaticPoolData where FileNames = N'{0}'".format(fileName)
     execSQLCmd(sql)
@@ -76,6 +90,13 @@ def getNumber(value,Type):
     except Exception as ex:
         writeLog(str(ex))
         print(str(ex))
+#获取数据库资产类型进行比较
+def getAssetType():
+    sql = "select ItemCode,ItemTitle  FROM [PortfolioManagement].[DV].[Item] where CategoryCode = 'AssetType'"
+    msg = execSQLCmdFetchAll(sql)
+    L = [(a, b) for a, b in msg]
+    df = pd.DataFrame(L, columns=['ItemCode', 'ItemTitle'])
+    return df
 
 def concatSql(filePath, cfgRoot):
     writeLog('文件：{0}，开始读取'.format(filePath))
@@ -87,9 +108,18 @@ def concatSql(filePath, cfgRoot):
     addition.append(fileName)
     for cell in cfgRoot[0]: #静态池的几个额外信息，获取
         ctag = cell.tag
+        cdesc = cell.attrib['desc'] if 'desc' in cell.attrib else ''
         cdtype = cell.attrib['dtype'] if 'dtype' in cell.attrib else 'string'
         cvalue = sheet[ctag].value if sheet[ctag].value != None else ''
         cvalue = getNumber(cvalue, cdtype)
+        if cdesc == '发起机构':
+            if '股份有限公司' not in cvalue and '有限责任公司' not in cvalue:
+                writeLog('文件：{0}，发起机构填写错误，必须包含‘股份有限公司’或‘有限责任公司’！！！'.format(filePath))
+                return
+        if cdesc == '资产类型':
+            if cvalue not in AssetTypeDf['ItemTitle'].values:
+                writeLog('文件：{0}，资产类型填写错误，必须为数据库已存在资产类型！！！'.format(filePath))
+                return
         addition.append(cvalue)
 
     statement = cfgRoot[1].attrib['stat']
@@ -144,6 +174,7 @@ def main(configFilePath, dateId):
     global dbConnectionStr
     global trustID
     global paymentPeriodID
+    global AssetTypeDf
 
     mappingTree = XETree.parse(configFilePath)
     cfgRoot = mappingTree.getroot()
@@ -157,6 +188,7 @@ def main(configFilePath, dateId):
     if not os.path.exists(log_Path):
         os.mkdir(log_Path)
     logtxtFilePath = os.path.join(scriptFolderPath, 'Logs', '{0}.txt'.format(dateId))
+    AssetTypeDf = getAssetType()
 
     if audioType == 1:  #当是文件夹时
         for dirPath, dirNames, fileNames in os.walk(DirPath):

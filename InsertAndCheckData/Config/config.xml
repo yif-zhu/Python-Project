@@ -75,5 +75,21 @@
 	<File Name="房地产投资信托基金">FDCTZXTJJ</File>
 	<File Name="重整资产">CZZC</File>
 	<File Name="供应链">SupplyChain</File>
+	<File Name="基础设施收费收益权">InfrastructureFeeIncomeRight</File>
+	<File Name="其他收益权">OtherIncomeRights</File>
+	<File Name="应收账款债权">AccountsReceivableClaims</File>
+	<File Name="可再生能源电价附加补助收益权">ElectricityPriceSubsidy</File>
+	<File Name="应付账款">AccountsPayable</File>
+	<File Name="个人消费金融">PersonalConsumerFinance</File>
+	<File Name="票据资产">BillAssets</File>
+	<File Name="门票收益权">TicketIncomeRights</File>
+	<File Name="保障房">SecurityHousing</File>
+	<File Name="同业借款">InterbankLoans</File>
+	<File Name="CMBS/CMBN">CMBS/CMBN</File>
+	<File Name="类Reits">ClassReits</File>
+	<File Name="融出资金债权">FinancingDebt</File>
+	<File Name="补贴款">Subsidy</File>
+	<File Name="GMBS">GMBS</File>
+	<File Name="特定非金债权">SpecificNonFinancialClaims</File>
 </AssetType>
 </Root>

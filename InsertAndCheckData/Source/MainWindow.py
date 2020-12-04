@@ -177,7 +177,7 @@ class MainWindow(QMainWindow):
         self.setObjectName("MainWindow")
         self.setGeometry(0, 0, 1400, 800)
         self.center(self)
-        self.setWindowTitle("入库工具2.3")
+        self.setWindowTitle("入库工具2.4")
         self.setWindowIcon(QIcon('Resource/icon/Icon_table.ico'))
         # self.center()
         self.show()

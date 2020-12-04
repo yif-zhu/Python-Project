@@ -13,6 +13,7 @@ import os
 import xml.etree.ElementTree as XETree
 import sip
 from Source.TabWidget import *
+import pyodbc
 
 class AssetTypeManager(QDialog):
     submitted = pyqtSignal(str, str, dict)
@@ -25,9 +26,39 @@ class AssetTypeManager(QDialog):
         self.configFileName = "config.xml"
         self.xmlFolderPath = "Resource/xml"
         self.templateFoldetPath = "Resource/templateFile"
-
+        self.dbConnectionStr = 'DRIVER={SQL Server};SERVER=172.16.6.143\MSSQL;DATABASE=PortfolioManagement;UID=sa;PWD=PasswordGS2017'
+        self.sql = "select ItemCode,ItemTitle  FROM [PortfolioManagement].[DV].[Item] where CategoryCode = 'AssetType'"
+        self.AssetTypeList = self.execSQLCmdFetchAll(self.sql)
         self.configFilePath = os.path.join(self.configFileDirectory, self.configFileName)
+        self.updateAssetType()
         self.__initUI()
+
+    def execSQLCmdFetchAll(self, sql):
+        cnxn = pyodbc.connect(self.dbConnectionStr)
+        try:
+            cursor = cnxn.cursor()
+            rows = cursor.execute(sql).fetchall()
+            return rows
+        except Exception as ex:
+            raise ex
+        finally:
+            cnxn.close()
+
+    def updateAssetType(self):
+        tree = XETree.parse(self.configFilePath)
+        root = tree.getroot()
+        node = root.find(self.filetype)
+        node.clear()
+        for AssetType in self.AssetTypeList:
+            name = AssetType.ItemTitle
+            code = AssetType.ItemCode
+            if name != "" and code != "":
+                element = XETree.Element("File")
+                element.set("Name", name)
+                element.text = code
+                node.append(element)
+        indent(node)
+        tree.write(self.configFilePath, encoding='utf-8', xml_declaration=True)
 
     def __initUI(self):
         self.setObjectName("Main")
@@ -123,7 +154,6 @@ class AssetTypeManager(QDialog):
     def delete(self):
         row = self.mainTable.selectedIndexes()[0].row()
         self.mainTable.removeRow(row)
-
 
     def add(self):
         count = self.mainTable.rowCount() -1
